@@ -23,8 +23,8 @@
     "name": "Super Open Bros",
     "description": "",
     "author": "",
-    "windowWidth": 768,
-    "windowHeight": 720,
+    "windowWidth": 781,
+    "windowHeight": 510,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
@@ -621,6 +621,24 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/NewSprite.png\",\"extension\":\".png\"}",
+        "name": "assets/NewSprite.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
         "smoothed": false,
         "userAdded": true
       }
