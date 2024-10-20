@@ -9,7 +9,7 @@
   "title": "",
   "v": 144,
   "uiSettings": {
-    "grid": true,
+    "grid": false,
     "gridType": "rectangular",
     "gridWidth": 32,
     "gridHeight": 32,
@@ -17,8 +17,8 @@
     "gridOffsetY": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
-    "snap": true,
-    "zoomFactor": 6.920599023154214,
+    "snap": false,
+    "zoomFactor": 0.9780550268385847,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -34,7 +34,7 @@
       "name": "player",
       "persistentUuid": "fb9dcaec-7e8b-41ac-9109-daf88604cd6c",
       "width": 32,
-      "x": 96,
+      "x": 32,
       "y": 416,
       "zOrder": 2,
       "numberProperties": [],
@@ -1166,28 +1166,6 @@
       "y": 513,
       "zOrder": -9999999,
       "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 98,
-      "keepRatio": true,
-      "layer": "",
-      "name": "hill",
-      "persistentUuid": "6aab995a-c27e-4e2a-9230-259056bd6b38",
-      "width": 97,
-      "x": 0,
-      "y": 362,
-      "zOrder": -9999,
-      "numberProperties": [
-        {
-          "name": "animation",
-          "value": 0
-        }
-      ],
       "stringProperties": [],
       "initialVariables": []
     },
@@ -4465,7 +4443,7 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 32,
+      "height": 1,
       "keepRatio": true,
       "layer": "",
       "name": "brickcheker10",
@@ -4474,6 +4452,125 @@
       "x": 1651,
       "y": 224,
       "zOrder": 92,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 96,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hill2",
+      "persistentUuid": "f7c093dc-e8fa-4dbf-8a73-9806de1de79d",
+      "width": 96,
+      "x": 0,
+      "y": 384,
+      "zOrder": -93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker11",
+      "persistentUuid": "0f7cd46c-2863-4b5e-928a-a6fd3238d5d5",
+      "width": 31,
+      "x": 1683,
+      "y": 224,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcoincheker",
+      "persistentUuid": "aa8afb06-175c-4938-a01d-2d80402434c9",
+      "width": 30,
+      "x": 1716,
+      "y": 352,
+      "zOrder": 94,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker11",
+      "persistentUuid": "dd2167f4-f45b-4c14-9db9-9396162191fd",
+      "width": 30,
+      "x": 1793,
+      "y": 352,
+      "zOrder": 95,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker12",
+      "persistentUuid": "a3998c0a-4887-4209-b5ff-8466d36b813b",
+      "width": 29,
+      "x": 1825,
+      "y": 352,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker13",
+      "persistentUuid": "93caec39-f563-4fbd-ae6e-cdc0d2f3ac7f",
+      "width": 30,
+      "x": 2145,
+      "y": 352,
+      "zOrder": 97,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker14",
+      "persistentUuid": "de6e0e11-ef83-4b6a-9ef9-30b5b2021103",
+      "width": 30,
+      "x": 2177,
+      "y": 352,
+      "zOrder": 98,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -15441,6 +15538,127 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "hill2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Hill2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 80,
+                        "y": 0
+                      },
+                      {
+                        "x": 80,
+                        "y": 35
+                      },
+                      {
+                        "x": 0,
+                        "y": 35
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brickcoincheker",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -15538,6 +15756,9 @@
       },
       {
         "objectName": "hill"
+      },
+      {
+        "objectName": "hill2"
       },
       {
         "objectName": "unknown"
@@ -15700,6 +15921,9 @@
       },
       {
         "objectName": "brickcoin"
+      },
+      {
+        "objectName": "brickcoincheker"
       }
     ]
   },
