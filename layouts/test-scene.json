@@ -9,7 +9,7 @@
   "title": "",
   "v": 144,
   "uiSettings": {
-    "grid": false,
+    "grid": true,
     "gridType": "rectangular",
     "gridWidth": 32,
     "gridHeight": 32,
@@ -17,8 +17,8 @@
     "gridOffsetY": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
-    "snap": false,
-    "zoomFactor": 0.9780550268385847,
+    "snap": true,
+    "zoomFactor": 0.7501339627513731,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1162,8 +1162,8 @@
       "name": "the_level",
       "persistentUuid": "71b8c88d-cfc0-47b4-934b-5004f3e1e918",
       "width": 3968,
-      "x": 0,
-      "y": 513,
+      "x": 32,
+      "y": 512,
       "zOrder": -9999999,
       "numberProperties": [],
       "stringProperties": [],
@@ -4327,80 +4327,12 @@
       "height": 1,
       "keepRatio": true,
       "layer": "",
-      "name": "brickcheker6",
-      "persistentUuid": "6a3e0959-ed2f-4be0-9a89-bb4cb964920b",
-      "width": 29,
-      "x": 1917,
-      "y": 352,
-      "zOrder": 85,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1,
-      "keepRatio": true,
-      "layer": "",
-      "name": "brickcheker7",
-      "persistentUuid": "50ed9828-e7dc-4391-bbe1-6e05d98ddefe",
-      "width": 28,
-      "x": 1986,
-      "y": 352,
-      "zOrder": 86,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1,
-      "keepRatio": true,
-      "layer": "",
-      "name": "brickcheker8",
-      "persistentUuid": "fae8f9af-3d9b-4da3-b759-d75d77d1de4c",
-      "width": 28,
-      "x": 2050,
-      "y": 352,
-      "zOrder": 87,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1,
-      "keepRatio": true,
-      "layer": "",
       "name": "unknownchecker4",
       "persistentUuid": "563c1d4a-1b63-4b69-b3bc-302a575417d3",
       "width": 29,
       "x": 1986,
       "y": 192,
       "zOrder": 88,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1,
-      "keepRatio": true,
-      "layer": "",
-      "name": "unknownchecker5",
-      "persistentUuid": "b6f57f8d-f6d5-459b-ae86-e393154d774a",
-      "width": 27,
-      "x": 1717,
-      "y": 224,
-      "zOrder": 89,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -4432,8 +4364,8 @@
       "name": "brick14",
       "persistentUuid": "06475780-2a39-4e86-a7ef-457e97359543",
       "width": 32,
-      "x": 2176,
-      "y": 320,
+      "x": 2208,
+      "y": 160,
       "zOrder": 91,
       "numberProperties": [],
       "stringProperties": [],
@@ -4568,9 +4500,77 @@
       "name": "brickcheker14",
       "persistentUuid": "de6e0e11-ef83-4b6a-9ef9-30b5b2021103",
       "width": 30,
-      "x": 2177,
-      "y": 352,
+      "x": 2209,
+      "y": 192,
       "zOrder": 98,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "checker5",
+      "persistentUuid": "5bbd1597-63a2-47eb-916a-d2b1ed743e92",
+      "width": 27,
+      "x": 1717,
+      "y": 224,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "checker6",
+      "persistentUuid": "d5d46e13-daae-4493-b8de-1325b46de427",
+      "width": 32,
+      "x": 1915,
+      "y": 352,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker7",
+      "persistentUuid": "c6f92353-5bb7-47bd-b0ed-4d7d1ef68b00",
+      "width": 32,
+      "x": 1984,
+      "y": 352,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "checker8",
+      "persistentUuid": "e79cf9e5-2751-4001-b4d7-75a856a15d3e",
+      "width": 32,
+      "x": 2048,
+      "y": 352,
+      "zOrder": 102,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -9792,6 +9792,7 @@
         "text": "000000",
         "font": "Super Mario Bros. 2.ttf",
         "textAlignment": "left",
+        "verticalTextAlignment": "top",
         "characterSize": 16,
         "color": "0;0;0"
       }
@@ -9840,6 +9841,7 @@
         "text": "",
         "font": "Super Mario Bros. 2.ttf",
         "textAlignment": "left",
+        "verticalTextAlignment": "top",
         "characterSize": 8,
         "color": "0;0;0"
       }
@@ -15659,6 +15661,246 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "checker5",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "checker6",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "checker7",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "checker8",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -15863,13 +16105,25 @@
         "objectName": "checker"
       },
       {
+        "objectName": "checker2"
+      },
+      {
         "objectName": "checker3"
       },
       {
         "objectName": "checker4"
       },
       {
-        "objectName": "checker2"
+        "objectName": "checker5"
+      },
+      {
+        "objectName": "checker6"
+      },
+      {
+        "objectName": "checker7"
+      },
+      {
+        "objectName": "checker8"
       },
       {
         "objectName": "brickcheker"
