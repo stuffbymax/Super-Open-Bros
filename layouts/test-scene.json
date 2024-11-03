@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.7501339627513731,
+    "zoomFactor": 0.4268613660451479,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1162,8 +1162,8 @@
       "name": "the_level",
       "persistentUuid": "71b8c88d-cfc0-47b4-934b-5004f3e1e918",
       "width": 3968,
-      "x": 32,
-      "y": 512,
+      "x": -32,
+      "y": 608,
       "zOrder": -9999999,
       "numberProperties": [],
       "stringProperties": [],
@@ -4279,7 +4279,7 @@
       "name": "groundbock",
       "persistentUuid": "e037657f-2785-486c-9214-d62ca3a0f0b9",
       "width": 32,
-      "x": 2752,
+      "x": 2720,
       "y": 480,
       "zOrder": 28,
       "numberProperties": [],
@@ -4296,7 +4296,7 @@
       "name": "groundbock",
       "persistentUuid": "e4fb9a34-014f-4226-b78f-f48c08cc17f5",
       "width": 32,
-      "x": 2752,
+      "x": 2720,
       "y": 448,
       "zOrder": 28,
       "numberProperties": [],
@@ -4312,7 +4312,7 @@
       "layer": "",
       "name": "goopacheker2",
       "persistentUuid": "7caee016-3407-402a-9c00-3812d41ae0eb",
-      "width": 448,
+      "width": 512,
       "x": 1376,
       "y": 160,
       "zOrder": -99,
@@ -4446,40 +4446,6 @@
       "height": 1,
       "keepRatio": true,
       "layer": "",
-      "name": "brickcheker11",
-      "persistentUuid": "dd2167f4-f45b-4c14-9db9-9396162191fd",
-      "width": 30,
-      "x": 1793,
-      "y": 352,
-      "zOrder": 95,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1,
-      "keepRatio": true,
-      "layer": "",
-      "name": "brickcheker12",
-      "persistentUuid": "a3998c0a-4887-4209-b5ff-8466d36b813b",
-      "width": 29,
-      "x": 1825,
-      "y": 352,
-      "zOrder": 96,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1,
-      "keepRatio": true,
-      "layer": "",
       "name": "brickcheker13",
       "persistentUuid": "93caec39-f563-4fbd-ae6e-cdc0d2f3ac7f",
       "width": 30,
@@ -4571,6 +4537,4018 @@
       "x": 2048,
       "y": 352,
       "zOrder": 102,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brick15",
+      "persistentUuid": "a08e5709-1bd0-41bc-82eb-c79ea5ace8a6",
+      "width": 32,
+      "x": 2240,
+      "y": 160,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker15",
+      "persistentUuid": "9f4559cd-010d-4ff1-9f7a-d5322f9d1e85",
+      "width": 32,
+      "x": 2240,
+      "y": 192,
+      "zOrder": 104,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "unknowm9",
+      "persistentUuid": "b8ea70db-6e6b-475a-8b1e-ef3e9db584b6",
+      "width": 32,
+      "x": 2368,
+      "y": 160,
+      "zOrder": 105,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "unknowm10",
+      "persistentUuid": "a8b064e8-d5e6-40d2-9a10-007b9e2ba1a6",
+      "width": 32,
+      "x": 2400,
+      "y": 160,
+      "zOrder": 106,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brick16",
+      "persistentUuid": "2490d00d-b584-42e2-8c77-a793e3c62ff7",
+      "width": 32,
+      "x": 2336,
+      "y": 160,
+      "zOrder": 107,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brick17",
+      "persistentUuid": "bc482dd2-16ad-421f-88ea-ffd7656bf481",
+      "width": 32,
+      "x": 2432,
+      "y": 160,
+      "zOrder": 108,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker16",
+      "persistentUuid": "c0b5e14e-90ed-4d14-9dd8-583eb57e414d",
+      "width": 32,
+      "x": 2336,
+      "y": 192,
+      "zOrder": 109,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker17",
+      "persistentUuid": "5530cc21-82c3-46da-8b30-c6198f2832f3",
+      "width": 32,
+      "x": 2432,
+      "y": 192,
+      "zOrder": 110,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "f9955b51-92a6-4a63-a2e8-9437e47fe0a9",
+      "width": 32,
+      "x": 2494,
+      "y": 416,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "386fa6e7-74ba-4048-beac-c6ac6b64cd21",
+      "width": 32,
+      "x": 2526,
+      "y": 416,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "9b86c907-d0b5-4d1d-9c8d-c1401793488c",
+      "width": 32,
+      "x": 2558,
+      "y": 416,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "839931d5-f094-4e94-8c53-545118019919",
+      "width": 32,
+      "x": 2590,
+      "y": 416,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "d12edaf0-8d04-48af-9b81-996c1ffd65be",
+      "width": 32,
+      "x": 2526,
+      "y": 384,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "e85259ed-9803-47e5-91f3-6f8d558897f4",
+      "width": 32,
+      "x": 2558,
+      "y": 384,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "15ec2d2c-8635-47ca-b0e1-674fe44dd39b",
+      "width": 32,
+      "x": 2590,
+      "y": 384,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "970eab41-540b-4a07-9bab-b1c4b1d2f083",
+      "width": 32,
+      "x": 2558,
+      "y": 352,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "1d8b7369-c899-4968-b4ed-414865c35f79",
+      "width": 32,
+      "x": 2590,
+      "y": 352,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "d3ff357a-048b-464d-a078-4dee7eda8808",
+      "width": 32,
+      "x": 2590,
+      "y": 320,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "a2b1d9e0-d474-405f-bf94-782febbd7ab4",
+      "width": 32,
+      "x": 2784,
+      "y": 416,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "22b45d39-f424-45e7-821a-db85f1d646e3",
+      "width": 32,
+      "x": 2752,
+      "y": 416,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "5f33d0c5-5e2f-474d-8d2a-e0a21d0f7866",
+      "width": 32,
+      "x": 2720,
+      "y": 416,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "a71f33b7-f31b-41d2-baf5-be731c856e19",
+      "width": 32,
+      "x": 2688,
+      "y": 416,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "c8897d05-bedf-40d5-bdce-4fdf9e128c22",
+      "width": 32,
+      "x": 2688,
+      "y": 384,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "60e98e5d-5ecf-47dc-9500-26dc54c89f1d",
+      "width": 32,
+      "x": 2720,
+      "y": 384,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "36199364-c293-465c-9d57-931a9d8a0d18",
+      "width": 32,
+      "x": 2752,
+      "y": 384,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "5fa0d5d9-d628-42f0-ada4-335f1b71a6be",
+      "width": 32,
+      "x": 2688,
+      "y": 352,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "5ab58889-0a03-4a12-8bb7-586581a496a1",
+      "width": 32,
+      "x": 2720,
+      "y": 352,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "3104ae8e-7c2f-4d49-83fb-045bfb8ba94c",
+      "width": 32,
+      "x": 2688,
+      "y": 320,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "ef94b7ec-4123-488e-89f6-4e592254f40b",
+      "width": 32,
+      "x": 2752,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "9dc92f06-0640-4edc-af75-6d0be5d534bb",
+      "width": 32,
+      "x": 2784,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "70f5bdc0-2d36-4a44-8cde-9a5ab21695b3",
+      "width": 32,
+      "x": 2752,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "78439a6d-c6c8-4bdc-95bc-e31cb5c7da90",
+      "width": 32,
+      "x": 2784,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "2b0c42b3-3725-4dd2-ac2c-cb6b3bb8aeaf",
+      "width": 32,
+      "x": 2816,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "4add4e79-7b63-40e9-8611-592aef431692",
+      "width": 32,
+      "x": 2816,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "2e5bc243-a0b3-46f7-a3ae-5bd4342f1970",
+      "width": 32,
+      "x": 2848,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "da3addee-14b3-4b5b-a154-e29d30e6f8d6",
+      "width": 32,
+      "x": 2848,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "dbf764bc-fa4c-41c0-bd6a-f49aecd42dec",
+      "width": 32,
+      "x": 2880,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "04167894-f2e4-46a7-856e-941c27a15a3d",
+      "width": 32,
+      "x": 2880,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "ccca1b12-3bbc-432c-876c-96469dc1fca0",
+      "width": 32,
+      "x": 2880,
+      "y": 416,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "f54065b1-4cb8-41bc-8316-fff08dbceb4e",
+      "width": 32,
+      "x": 2912,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "f24b5520-92ff-4152-b134-f673df4f6dbd",
+      "width": 32,
+      "x": 2912,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "8617bd20-b8c9-4b1f-8dd5-482cf52ecac8",
+      "width": 32,
+      "x": 2944,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "1f78ca09-6c28-43f5-820b-48a35e08b38a",
+      "width": 32,
+      "x": 2944,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "204a70eb-b35b-410c-b6ab-4b61dc09390a",
+      "width": 32,
+      "x": 2976,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "bb522a05-98c3-49e1-a56d-12d3bb68f176",
+      "width": 32,
+      "x": 2976,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "7ad201b7-0d9f-44cb-9ad4-ec349cb05eed",
+      "width": 32,
+      "x": 3008,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "b5a23dfd-4922-4c1d-a391-72b096a37095",
+      "width": 32,
+      "x": 3008,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "5b228623-2e30-475c-9712-e05d383b4dc6",
+      "width": 32,
+      "x": 2912,
+      "y": 416,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "e7e466e3-ad1f-40d0-a97f-dfe575a9dd19",
+      "width": 32,
+      "x": 2944,
+      "y": 416,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "1753a0e6-a1f3-4fe5-bf03-5903f824bbd9",
+      "width": 32,
+      "x": 2976,
+      "y": 416,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "a2e909dc-67ed-4ce5-81ee-1518ade968b9",
+      "width": 32,
+      "x": 3008,
+      "y": 416,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "bee728ce-bb61-403a-8d32-ec348739bd33",
+      "width": 32,
+      "x": 2912,
+      "y": 384,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "4cd459b5-f244-4822-b938-8957e82b1d27",
+      "width": 32,
+      "x": 2944,
+      "y": 384,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "3f1d30eb-c4a6-4424-b05b-db2d7bb075a4",
+      "width": 32,
+      "x": 2976,
+      "y": 384,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "de2152a8-5b51-44ba-981f-a987389496f4",
+      "width": 32,
+      "x": 3008,
+      "y": 384,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "625b2ba8-ca19-4aff-b163-2847ab57d19b",
+      "width": 32,
+      "x": 2944,
+      "y": 352,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "8d89953e-c682-46ac-a3bc-79aa3152a297",
+      "width": 32,
+      "x": 2976,
+      "y": 352,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "4bdb1840-7b2b-468e-b5e3-e2f00df0b36e",
+      "width": 32,
+      "x": 3008,
+      "y": 352,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "d392ba6a-252f-49b2-9ecd-03602a655745",
+      "width": 32,
+      "x": 2976,
+      "y": 320,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "ced1fe92-5a7c-4214-8619-2d58100c9734",
+      "width": 32,
+      "x": 3008,
+      "y": 320,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "4340e4e6-2075-4471-acbc-ba5d0c24fd42",
+      "width": 32,
+      "x": 3104,
+      "y": 320,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "59d5cb00-5300-48ba-8294-07674db4d496",
+      "width": 32,
+      "x": 3104,
+      "y": 352,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "7fad203a-61fc-4529-82fa-000e31756c26",
+      "width": 32,
+      "x": 3104,
+      "y": 384,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "94500cac-886e-4ed2-995b-0bca6e5a7c7b",
+      "width": 32,
+      "x": 3104,
+      "y": 416,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "a00dd0e3-1fa3-43a1-8aae-de7c4d4a7e81",
+      "width": 32,
+      "x": 3136,
+      "y": 352,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "d3ae441f-8371-4752-ba96-45167be86e54",
+      "width": 32,
+      "x": 3136,
+      "y": 384,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "66c8540f-31eb-4a20-bda9-a0bc6d599c7f",
+      "width": 32,
+      "x": 3168,
+      "y": 384,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "01da0140-bf17-4479-b45b-6dc4d2574576",
+      "width": 32,
+      "x": 3136,
+      "y": 416,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "64473b82-c372-4edd-b6d3-6176164c26f1",
+      "width": 32,
+      "x": 3168,
+      "y": 416,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "a9770ca3-8289-47a8-8e67-cd4507d0b0f0",
+      "width": 32,
+      "x": 3200,
+      "y": 416,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "47959b39-a049-4276-89a7-867c629a1927",
+      "width": 32,
+      "x": 3104,
+      "y": 447,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "81fedc28-f4f7-493e-aa38-d112fefea62f",
+      "width": 32,
+      "x": 3104,
+      "y": 479,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "09c46009-5875-4619-9dfa-ba31418d79b3",
+      "width": 32,
+      "x": 3136,
+      "y": 447,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "4ba29cf9-fd8c-4977-9d21-5fdaddf2ddeb",
+      "width": 32,
+      "x": 3136,
+      "y": 479,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "d3ead458-6e0f-4bbe-a23f-dfbb265461b4",
+      "width": 32,
+      "x": 3168,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "264f3342-659c-4ef3-8d0e-853f9f0241ff",
+      "width": 32,
+      "x": 3168,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "2bf1b67c-0caf-4ffe-838f-32d18ef36ce4",
+      "width": 32,
+      "x": 3200,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "5689dd8c-e9b7-488d-abed-72658320695f",
+      "width": 32,
+      "x": 3200,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "8a686f52-899a-40df-a6c2-3b319ac5d4b3",
+      "width": 32,
+      "x": 3200,
+      "y": 416,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "e3947a3d-e5bb-4940-8e28-b5b0906c8701",
+      "width": 32,
+      "x": 3200,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "6a727cfd-175a-48cf-9277-536b2546f3c0",
+      "width": 32,
+      "x": 3232,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "d71aebc0-cd66-4d46-b937-c44e931f020f",
+      "width": 32,
+      "x": 3232,
+      "y": 479,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "e5836d15-dda7-4c78-823b-33bdaf5f00bb",
+      "width": 32,
+      "x": 3264,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "303a16e5-fdc2-44e1-9edf-8eb91c4aa018",
+      "width": 32,
+      "x": 3264,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "1cc76f86-806a-4e58-8b0a-7224fe19161b",
+      "width": 32,
+      "x": 3296,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "45b9a86e-63de-491b-9953-e63bb8ec0738",
+      "width": 32,
+      "x": 3296,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "adfbdc38-35df-455d-8f13-58a493b3d3e3",
+      "width": 32,
+      "x": 3328,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "72463013-fc88-465d-a3dd-3699b9c2a482",
+      "width": 32,
+      "x": 3328,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "7babb91f-0db6-4723-9f3e-d2a6bd93f4a1",
+      "width": 32,
+      "x": 3360,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "82b08248-7e39-4d19-a742-67c3421e4019",
+      "width": 32,
+      "x": 3360,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "d613041f-32a7-4381-b1d6-9b14f82532af",
+      "width": 32,
+      "x": 3392,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "53319c74-8d7d-4fe7-8c5c-4c0882d7fbb4",
+      "width": 32,
+      "x": 3392,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "f84a2c94-40cb-4786-9a1d-fb99e55c7778",
+      "width": 32,
+      "x": 3424,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "6f8640df-289b-4e76-8cce-adbe5e98dc65",
+      "width": 32,
+      "x": 3424,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "1df548f7-fd24-4659-a47e-d4702d09bcef",
+      "width": 32,
+      "x": 3456,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "292e819d-bd9f-4460-be08-5efc31aa7870",
+      "width": 32,
+      "x": 3456,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "b39aa637-182d-439f-8014-7ca3b41f94a0",
+      "width": 32,
+      "x": 3488,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "3ed37595-0060-4f55-a7ea-22ad7373b400",
+      "width": 32,
+      "x": 3488,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "66188fa0-bfe8-4652-b4e2-4d5cbdbf18d4",
+      "width": 32,
+      "x": 3520,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "227063b4-81e2-47c8-b910-111063ef6b57",
+      "width": 32,
+      "x": 3520,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "ba21ebe1-e6d5-43d0-905d-a9d36587becf",
+      "width": 32,
+      "x": 3552,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "787353b0-fb74-4311-a5e7-4a5490cb2b74",
+      "width": 32,
+      "x": 3552,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "cf04d16a-d19a-48fa-8ccf-da8b2191dd85",
+      "width": 32,
+      "x": 3584,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "032016c9-11c0-44e4-b7a8-78766f3a24a3",
+      "width": 32,
+      "x": 3584,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "pipbottom",
+      "persistentUuid": "576d9c2f-499b-4c05-b7d4-9d315bbeed7d",
+      "width": 32,
+      "x": 3328,
+      "y": 416,
+      "zOrder": 113,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 29,
+      "keepRatio": true,
+      "layer": "",
+      "name": "piptop",
+      "persistentUuid": "08e0278c-89d1-4146-9d1d-88a737ec481a",
+      "width": 33,
+      "x": 3328,
+      "y": 374,
+      "zOrder": 114,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "pipbottom",
+      "persistentUuid": "c87ee56e-04d9-4d0e-aa37-b1f724bc0bfa",
+      "width": 32,
+      "x": 3328,
+      "y": 401,
+      "zOrder": 113,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brick18",
+      "persistentUuid": "db9d9de8-0155-45ec-94fb-27fa83bb97b3",
+      "width": 32,
+      "x": 3424,
+      "y": 320,
+      "zOrder": 115,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brick19",
+      "persistentUuid": "ee1b2e1e-ef76-4ba3-be0f-81c833acdce4",
+      "width": 32,
+      "x": 3488,
+      "y": 320,
+      "zOrder": 116,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "unknowm11",
+      "persistentUuid": "03b38ba4-df55-49dc-9cac-d79ccbf90d5b",
+      "width": 32,
+      "x": 3456,
+      "y": 320,
+      "zOrder": 117,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "9aaa4bda-a329-430c-a4e2-2c5c022618b0",
+      "width": 32,
+      "x": 3616,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "7ce03e2e-a025-442b-9999-2feacd5d956f",
+      "width": 32,
+      "x": 3616,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "3ab98fba-04de-466a-864b-e9d2b921096d",
+      "width": 32,
+      "x": 3648,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "a4facb13-fedc-4c10-9576-7dd33cdd658c",
+      "width": 32,
+      "x": 3648,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "3f669936-c0ba-4622-abd0-9d27a20ab797",
+      "width": 32,
+      "x": 3680,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "0e146bce-4bfb-4729-ba4f-e584ef5669f4",
+      "width": 32,
+      "x": 3680,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "116b7163-5551-444a-8b05-622ffd3d9545",
+      "width": 32,
+      "x": 3712,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "1c1820f8-4c36-4c9f-bcfa-9ac7e6b5826b",
+      "width": 32,
+      "x": 3712,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "2b4c5534-c99a-4b6c-a726-f5443cd03dff",
+      "width": 32,
+      "x": 3744,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "3150c62b-06fc-4b87-97eb-23bc0572ff04",
+      "width": 32,
+      "x": 3744,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "d2749a77-4e2a-4f20-89fa-024adb7ef5aa",
+      "width": 32,
+      "x": 3776,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "3e2b9da6-473e-477c-b1c9-b8c08e670dee",
+      "width": 32,
+      "x": 3776,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "f8c9bd8d-bf90-4b49-bce6-1f2d1aed8820",
+      "width": 32,
+      "x": 3712,
+      "y": 416,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "46006ff0-0a9c-4015-bda4-859f2c6d8b1d",
+      "width": 32,
+      "x": 3744,
+      "y": 416,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "728dc0ce-cfec-4695-a7b2-919f7bc3894d",
+      "width": 32,
+      "x": 3776,
+      "y": 416,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "792882c6-8855-45e8-9759-502aae111c14",
+      "width": 32,
+      "x": 3808,
+      "y": 416,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "0af84741-8238-4d9f-aad3-a75f84a39914",
+      "width": 32,
+      "x": 3840,
+      "y": 416,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "eb09ea38-543b-4a2b-a373-cdf338c830b3",
+      "width": 32,
+      "x": 3872,
+      "y": 416,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "8437f13c-2a8f-48f5-b4c4-4eb6aaa27367",
+      "width": 32,
+      "x": 3904,
+      "y": 416,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "43fce787-1341-430d-a12c-5e5126006f17",
+      "width": 32,
+      "x": 3936,
+      "y": 416,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "08c8956d-edb0-4e3a-b19e-933d4fd7e51c",
+      "width": 32,
+      "x": 3968,
+      "y": 416,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "39025d5f-1abc-4969-a34c-634947622bc5",
+      "width": 32,
+      "x": 3744,
+      "y": 384,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "67a977c4-65d6-48f5-af5b-fb54cf9933e6",
+      "width": 32,
+      "x": 3776,
+      "y": 384,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "88a10f0f-cc31-43da-865f-aa69cc6b2fdc",
+      "width": 32,
+      "x": 3808,
+      "y": 384,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "13615c6d-7df3-4cd2-91d0-158ed08e032f",
+      "width": 32,
+      "x": 3840,
+      "y": 384,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "1cbaf841-2474-4eb2-bf87-0f60a0b6b1b3",
+      "width": 32,
+      "x": 3872,
+      "y": 384,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "7950e800-fc1a-45ed-89aa-5d6d1f012578",
+      "width": 32,
+      "x": 3904,
+      "y": 384,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "35aef16f-c0ab-4870-b9be-f7aac68ae162",
+      "width": 32,
+      "x": 3936,
+      "y": 384,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "2620efa3-748c-4379-ba51-f38d9d264361",
+      "width": 32,
+      "x": 3968,
+      "y": 384,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "a61a1c88-dc73-4e71-ac02-7ab4d6b69301",
+      "width": 32,
+      "x": 3776,
+      "y": 352,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "4494f843-46a7-4fef-acf4-72ec30702db8",
+      "width": 32,
+      "x": 3808,
+      "y": 352,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "5b577209-82c4-486d-ad7d-e20889ce4c58",
+      "width": 32,
+      "x": 3840,
+      "y": 352,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "8786e2ca-09da-4d2b-9760-75ebb3c8243c",
+      "width": 32,
+      "x": 3872,
+      "y": 352,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "acb19d46-8a80-4ffa-b027-265c774650ef",
+      "width": 32,
+      "x": 3904,
+      "y": 352,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "8985d55f-ca56-420c-ba9e-9b7e477351ff",
+      "width": 32,
+      "x": 3936,
+      "y": 352,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "dd06df3c-3d76-4f60-9b8a-2e543a22ea62",
+      "width": 32,
+      "x": 3968,
+      "y": 352,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "b424cf55-e6d1-439a-bc94-3939c46058f8",
+      "width": 32,
+      "x": 3904,
+      "y": 320,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "a231d0ec-95c5-4db6-a203-8d294c921e85",
+      "width": 32,
+      "x": 3936,
+      "y": 320,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "7245dbb8-f908-4940-b869-7c9ff1a0a17b",
+      "width": 32,
+      "x": 3968,
+      "y": 320,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "068af8eb-bf91-41d3-99f8-45e15bc285fd",
+      "width": 32,
+      "x": 3808,
+      "y": 320,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "aad24d3d-e696-4bcf-a49b-1c8add5a87db",
+      "width": 32,
+      "x": 3840,
+      "y": 320,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "c0a80804-d422-49de-96ad-533bc8bd6003",
+      "width": 32,
+      "x": 3872,
+      "y": 320,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "f7197cdf-9abc-4dbd-876c-06d386c83246",
+      "width": 32,
+      "x": 3840,
+      "y": 288,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "15244c68-5e88-4d30-978b-6930bff65aab",
+      "width": 32,
+      "x": 3872,
+      "y": 288,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "c59b2a14-7ffb-4384-aae5-2fe4bb3db8be",
+      "width": 32,
+      "x": 3904,
+      "y": 288,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "59182f54-43c3-4bbd-89dd-7135809beb9d",
+      "width": 32,
+      "x": 3936,
+      "y": 288,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "539ff3b3-d9da-4d77-8355-e81cb3cda984",
+      "width": 32,
+      "x": 3968,
+      "y": 288,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "d0aac367-18fd-450e-9397-104341c94a7c",
+      "width": 32,
+      "x": 3872,
+      "y": 256,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "401c4b75-4cfb-4785-a76c-c1b3dcf4ddc5",
+      "width": 32,
+      "x": 3904,
+      "y": 256,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "bea70eac-d570-49c4-8d95-8afb0578f79d",
+      "width": 32,
+      "x": 3936,
+      "y": 256,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "1277d5d9-853a-4503-8f51-78888700ad1f",
+      "width": 32,
+      "x": 3968,
+      "y": 256,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "ff95e9dc-0ac4-4bde-a894-2c71704cf2c7",
+      "width": 32,
+      "x": 3904,
+      "y": 224,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "c52ba3f1-99db-4a38-a9c0-a70ed92485bf",
+      "width": 32,
+      "x": 3936,
+      "y": 224,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "5c92dc2c-dcec-4815-9c33-d6fc841d1159",
+      "width": 32,
+      "x": 3968,
+      "y": 224,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "8a04b145-bbca-4662-898b-8a4b1b086a75",
+      "width": 32,
+      "x": 3936,
+      "y": 192,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "5d1d97c9-bae9-4668-bfa0-08d7b7bde042",
+      "width": 32,
+      "x": 3968,
+      "y": 192,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "9145a71c-97fc-45e0-a414-83564e75b000",
+      "width": 32,
+      "x": 3808,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "c8eb1614-70b4-4e95-a8bf-5bb5fe268d8f",
+      "width": 32,
+      "x": 3808,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "2e8efe07-7275-4438-91fb-0cc588767f41",
+      "width": 32,
+      "x": 3840,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "3dc2d88b-73cd-4437-8b20-d203ff8fc9f1",
+      "width": 32,
+      "x": 3840,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "fc5cf019-bcd3-45bd-b4e6-0d2504b55298",
+      "width": 32,
+      "x": 3872,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "680e11c6-2558-431b-b376-eb5a3e4a852b",
+      "width": 32,
+      "x": 3872,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "db589a48-5c95-4d7a-a2c6-0c740df632b1",
+      "width": 32,
+      "x": 3904,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "33bbfa7d-179f-4ffd-85a2-1e195645375a",
+      "width": 32,
+      "x": 3904,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "7149bb94-d575-42cc-a46f-8f970d20724c",
+      "width": 32,
+      "x": 3936,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "09af9814-c69c-4791-ac53-3ed9bfcaf394",
+      "width": 32,
+      "x": 3936,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "e12815fb-f072-4306-84eb-b2f8bc23dca2",
+      "width": 32,
+      "x": 3968,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "34e55de0-c67b-45e2-a3da-a029fad22c6f",
+      "width": 32,
+      "x": 3968,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "459f7e25-b586-4c83-92d0-3668164c6150",
+      "width": 32,
+      "x": 4000,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "eef11bf4-897a-4bd9-a8d6-4d3ba3d9b17f",
+      "width": 32,
+      "x": 4000,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "cc67a00c-347d-4b4e-afc2-3f803a45a858",
+      "width": 32,
+      "x": 4032,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "ca3f775c-c281-4a22-ade3-03fb4de19012",
+      "width": 32,
+      "x": 4032,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "44fbe528-b454-4da6-8e89-f8e9c6946b50",
+      "width": 32,
+      "x": 4064,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "255ccdb9-c9f7-4593-b6aa-686051ae45fc",
+      "width": 32,
+      "x": 4064,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "f784bebc-8d20-4754-a61c-9aca8a0ff36a",
+      "width": 32,
+      "x": 4096,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "798ce42d-adc5-40ce-8db1-65d9f707db6a",
+      "width": 32,
+      "x": 4096,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "16c9e507-5dd9-4b0c-b767-7b1df82c5dbb",
+      "width": 32,
+      "x": 4128,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "93e7af7b-d33a-450c-956b-b719ed45ba57",
+      "width": 32,
+      "x": 4128,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "ed263d66-4eaa-4e03-9a15-e6f101ab1caf",
+      "width": 32,
+      "x": 4160,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "392d2d50-dc41-41aa-a0d8-41f81e469b75",
+      "width": 32,
+      "x": 4160,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "0ff8d073-7fe9-4d18-a99a-a91333d5c776",
+      "width": 32,
+      "x": 4192,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "71fc9e22-2a03-4ef5-97cd-7630f008c876",
+      "width": 32,
+      "x": 4192,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "1a9b58ab-dee8-4695-ac5f-70ce870f299e",
+      "width": 32,
+      "x": 4224,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "e4b07f34-8d14-4f62-b288-0a3d71b357a6",
+      "width": 32,
+      "x": 4224,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "8d4704f3-a09e-4c97-b351-6486ad85de93",
+      "width": 32,
+      "x": 4256,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "78028946-4e1e-4dc2-b9aa-94bba008a7b3",
+      "width": 32,
+      "x": 4256,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hardblock",
+      "persistentUuid": "7eb16c5e-e292-416e-aa27-402e7cbd7dc0",
+      "width": 32,
+      "x": 4160,
+      "y": 416,
+      "zOrder": 119,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 448,
+      "keepRatio": true,
+      "layer": "",
+      "name": "flagpole",
+      "persistentUuid": "3cb952e7-6992-4ccb-b7c2-93245a423c1b",
+      "width": 31,
+      "x": 4160,
+      "y": -32,
+      "zOrder": 120,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "flag",
+      "persistentUuid": "34ecf0e6-b00f-4d34-b0df-fabb70e5ce88",
+      "width": 48,
+      "x": 4127,
+      "y": 0,
+      "zOrder": 121,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "e1817ad7-431f-43b6-8cfa-cbe3f9de05bb",
+      "width": 32,
+      "x": 4287,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "060f760b-86b7-441c-9bda-98ca9c3da3da",
+      "width": 32,
+      "x": 4287,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "a5a09c62-1156-438b-a505-9fdaf36b7695",
+      "width": 32,
+      "x": 4319,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "dcb6acac-7858-4aa3-b76a-dc2513131f5b",
+      "width": 32,
+      "x": 4319,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "7bb4dd4e-f042-4b5d-a947-7f162c446dee",
+      "width": 32,
+      "x": 4351,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "f2aaf351-ee16-4b44-9487-18af7f30ec03",
+      "width": 32,
+      "x": 4351,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "5e539bfb-8d4d-457f-b608-9d1ba7a13122",
+      "width": 32,
+      "x": 4384,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "f4b7d8b0-aee8-4269-951a-b0d64cf1adf2",
+      "width": 32,
+      "x": 4384,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "ce50ac40-bec8-4982-b513-7f4ddd0d98c1",
+      "width": 32,
+      "x": 4416,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "85e69a7d-1423-495c-a621-449e1023b349",
+      "width": 32,
+      "x": 4416,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "7803595a-c032-44e7-9710-2e5428c39676",
+      "width": 32,
+      "x": 4448,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "5aae2069-3f7b-4318-9303-28ca4ca4b9a7",
+      "width": 32,
+      "x": 4448,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 160,
+      "keepRatio": true,
+      "layer": "",
+      "name": "castle",
+      "persistentUuid": "d458c8bb-5142-4108-8641-5f1a06041609",
+      "width": 127,
+      "x": 4304,
+      "y": 288,
+      "zOrder": 122,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "e09c9a13-bf1e-4d3e-9996-7dfa499f0718",
+      "width": 32,
+      "x": 4480,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "66b74928-5098-4d8f-9b2a-2f1da008ed70",
+      "width": 32,
+      "x": 4480,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "e66205d4-6e59-4fce-951d-1751be998215",
+      "width": 32,
+      "x": 4512,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "d21e03b2-34f0-4b15-980a-b0002e7e853d",
+      "width": 32,
+      "x": 4512,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "911840f1-afaf-4200-addb-db3913447778",
+      "width": 32,
+      "x": 4544,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "d3966e06-195e-4af6-8d1c-79130a191d4c",
+      "width": 32,
+      "x": 4544,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "ed20cc4b-1ca7-4eee-b24f-929a0b123623",
+      "width": 32,
+      "x": 4576,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "16b9fb91-2432-47ff-bb68-f097da80a18d",
+      "width": 32,
+      "x": 4576,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "a4feb2b4-de20-406d-9e52-092b85e7f9f7",
+      "width": 32,
+      "x": 4608,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "0b95aff8-0f60-4b4e-bc98-db0795a143c2",
+      "width": 32,
+      "x": 4608,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "61d796d2-594d-490f-b6b9-fc164dac9c06",
+      "width": 32,
+      "x": 4640,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "39be7ecc-81fb-4a84-bdd9-ad992c62be91",
+      "width": 32,
+      "x": 4640,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "5de2e47f-9995-4030-9b16-9748be8d97c7",
+      "width": 32,
+      "x": 4672,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "bc49aff9-91b5-4751-ac22-f6f1505ca7cd",
+      "width": 32,
+      "x": 4672,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "951839d9-1009-421e-b6cc-6c129ce861b8",
+      "width": 32,
+      "x": 4704,
+      "y": 448,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "groundbock",
+      "persistentUuid": "f7ffef1e-a1ae-4d5e-a99a-39cc1c2d3a4f",
+      "width": 32,
+      "x": 4704,
+      "y": 480,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker12",
+      "persistentUuid": "f5a0fefe-f237-4802-a0ad-22f7e1c12547",
+      "width": 32,
+      "x": 1792,
+      "y": 352,
+      "zOrder": 123,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker18",
+      "persistentUuid": "a97c4482-5c7a-4acd-8095-3fbb8cd9f8e6",
+      "width": 32,
+      "x": 3424,
+      "y": 352,
+      "zOrder": 124,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker19",
+      "persistentUuid": "45abee5f-d0e8-4d84-a8f9-1ea80737c404",
+      "width": 32,
+      "x": 3488,
+      "y": 352,
+      "zOrder": 125,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "checker11",
+      "persistentUuid": "e954812f-9bc0-46f0-b314-4ab8b061f6b4",
+      "width": 32,
+      "x": 3456,
+      "y": 352,
+      "zOrder": 126,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "checker9",
+      "persistentUuid": "fde4facb-3208-4132-9927-fd8ec2cd113e",
+      "width": 32,
+      "x": 2368,
+      "y": 192,
+      "zOrder": 127,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "checker10",
+      "persistentUuid": "3a1c8ff8-0a82-4278-8c75-09454a780be9",
+      "width": 32,
+      "x": 2400,
+      "y": 192,
+      "zOrder": 128,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcheker14",
+      "persistentUuid": "04fce6f3-4b9e-4768-b34d-3674da03a16b",
+      "width": 32,
+      "x": 2208,
+      "y": 192,
+      "zOrder": 129,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickstarcheker",
+      "persistentUuid": "908ffcac-0faa-44e4-8869-d4f6fd82151d",
+      "width": 32,
+      "x": 1824,
+      "y": 352,
+      "zOrder": 130,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -8070,7 +12048,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -13632,7 +17618,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -15901,6 +19895,1215 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brick15",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Brick.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brickcheker15",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "assets/NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "unknowm9",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "spawnm",
+          "type": "boolean",
+          "value": true
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "unknow",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "MysteryBlock.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "empty",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "EmptyBlock2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "unknowm10",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "spawnm",
+          "type": "boolean",
+          "value": true
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "unknow",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "MysteryBlock.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "empty",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "EmptyBlock2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brick16",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Brick.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brick17",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Brick.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brickcheker16",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "assets/NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brickcheker17",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "assets/NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brick18",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Brick.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brick19",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Brick.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brick20",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Brick.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "unknowm11",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "spawnm",
+          "type": "boolean",
+          "value": true
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "unknow",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "MysteryBlock.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "empty",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "EmptyBlock2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brickcheker18",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "assets/NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brickcheker19",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "assets/NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "checker9",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "checker10",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "checker11",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets/NewSprite.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brickstarcheker",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -15950,6 +21153,24 @@
       },
       {
         "objectName": "brick14"
+      },
+      {
+        "objectName": "brick15"
+      },
+      {
+        "objectName": "brick16"
+      },
+      {
+        "objectName": "brick17"
+      },
+      {
+        "objectName": "brick18"
+      },
+      {
+        "objectName": "brick19"
+      },
+      {
+        "objectName": "brick20"
       },
       {
         "objectName": "brickstar"
@@ -16036,6 +21257,12 @@
         "objectName": "unknowm"
       },
       {
+        "objectName": "unknowm2"
+      },
+      {
+        "objectName": "unknowm3"
+      },
+      {
         "objectName": "unknowm4"
       },
       {
@@ -16051,10 +21278,13 @@
         "objectName": "unknowm8"
       },
       {
-        "objectName": "unknowm3"
+        "objectName": "unknowm9"
       },
       {
-        "objectName": "unknowm2"
+        "objectName": "unknowm10"
+      },
+      {
+        "objectName": "unknowm11"
       },
       {
         "objectName": "the_level"
@@ -16126,6 +21356,15 @@
         "objectName": "checker8"
       },
       {
+        "objectName": "checker9"
+      },
+      {
+        "objectName": "checker10"
+      },
+      {
+        "objectName": "checker11"
+      },
+      {
         "objectName": "brickcheker"
       },
       {
@@ -16168,6 +21407,21 @@
         "objectName": "brickcheker14"
       },
       {
+        "objectName": "brickcheker15"
+      },
+      {
+        "objectName": "brickcheker16"
+      },
+      {
+        "objectName": "brickcheker17"
+      },
+      {
+        "objectName": "brickcheker18"
+      },
+      {
+        "objectName": "brickcheker19"
+      },
+      {
         "objectName": "goopacheker"
       },
       {
@@ -16178,6 +21432,9 @@
       },
       {
         "objectName": "brickcoincheker"
+      },
+      {
+        "objectName": "brickstarcheker"
       }
     ]
   },
@@ -16584,7 +21841,7 @@
       "colorR": 74,
       "creationTime": 0,
       "folded": true,
-      "name": "player",
+      "name": "player stuff",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
@@ -18091,6 +23348,750 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "name": "unknow money8",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm8",
+                "spawnm",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "checker8",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "spawncoin",
+                "unknowm8.X()+4",
+                "unknowm8.Y()-30",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "unknowm8",
+                "Animation",
+                "=",
+                "\"empty\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm6",
+                "spawnm",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "points",
+                    "unknowm8.X()",
+                    "unknowm8.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "points",
+                    "Text",
+                    "=",
+                    "\"100\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "points",
+                    "points",
+                    "=",
+                    "points.Y()-12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "points",
+                    "270",
+                    "32",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "totalpoints",
+                    "+",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "Text",
+                    "=",
+                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm8",
+                "spawnm",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "spawncoin",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "unknow money7",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm7",
+                "spawnm",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "checker7",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "spawncoin",
+                "unknowm7.X()+4",
+                "unknowm7.Y()-30",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "unknowm7",
+                "Animation",
+                "=",
+                "\"empty\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm7",
+                "spawnm",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "points",
+                    "unknowm7.X()",
+                    "unknowm7.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "points",
+                    "Text",
+                    "=",
+                    "\"100\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "points",
+                    "points",
+                    "=",
+                    "points.Y()-12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "points",
+                    "270",
+                    "32",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "totalpoints",
+                    "+",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "Text",
+                    "=",
+                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm7",
+                "spawnm",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "spawncoin",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "unknow money6",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm6",
+                "spawnm",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "checker6",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "spawncoin",
+                "unknowm6.X()+4",
+                "unknowm6.Y()-30",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "unknowm6",
+                "Animation",
+                "=",
+                "\"empty\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm6",
+                "spawnm",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "points",
+                    "unknowm6.X()",
+                    "unknowm6.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "points",
+                    "Text",
+                    "=",
+                    "\"100\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "points",
+                    "points",
+                    "=",
+                    "points.Y()-12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "points",
+                    "270",
+                    "32",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "totalpoints",
+                    "+",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "Text",
+                    "=",
+                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm6",
+                "spawnm",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "spawncoin",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "unknow money5",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm5",
+                "spawnm",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "checker5",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "spawncoin",
+                "unknowm5.X()+4",
+                "unknowm5.Y()-30",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "unknowm5",
+                "Animation",
+                "=",
+                "\"empty\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm5",
+                "spawnm",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "points",
+                    "unknowm5.X()",
+                    "unknowm5.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "points",
+                    "Text",
+                    "=",
+                    "\"100\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "points",
+                    "points",
+                    "=",
+                    "points.Y()-12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "points",
+                    "270",
+                    "32",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "totalpoints",
+                    "+",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "Text",
+                    "=",
+                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "unknowm5",
+                "spawnm",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "spawncoin",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
       "name": "unknow money4",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -18838,6 +24839,99 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "name": "unknow4",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "unknown4",
+                "spawnm",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "unknownchecker4",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "mushroom",
+                "unknown4.X()+4",
+                "unknown4.Y()-30",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "unknown4",
+                "Animation",
+                "=",
+                "\"empty\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "unknown4",
+                "spawnm",
+                "False",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "unknown4",
+                "spawnm",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
       "name": "unknow3",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -19145,6 +25239,799 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "name": "brick17",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker15",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick17",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick16",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker15",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick16",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick15",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker15",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick15",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick14",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker14",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick14",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick13",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker13",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick13",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick12",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker12",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick12",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick11",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker11",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick11",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick10",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker10",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick10",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick9",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker9",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick9",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick8",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker8",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick8",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick7",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker7",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick7",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick6",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker6",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick6",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brick5",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcheker5",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::Value"
+              },
+              "parameters": [
+                "player",
+                "Scale",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "brick5",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
       "name": "brick4",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -19419,6 +26306,360 @@
               },
               "parameters": [
                 "player",
+                "Goombatime2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Goombatime2",
+                "isfliped",
+                "=",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "points",
+                    "Goombatime2.X()",
+                    "Goombatime2.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "points",
+                    "Text",
+                    "=",
+                    "\"100\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "points",
+                    "points",
+                    "=",
+                    "points.Y()-12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "points",
+                    "270",
+                    "32",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "totalpoints",
+                    "+",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "Text",
+                    "=",
+                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Goombatime2",
+                    "isfliped",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Goombatime2",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goombatime2",
+                    "Animation",
+                    "=",
+                    "\"dead\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Goombatime2",
+                    "Animation",
+                    "=",
+                    "\"dead\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Goombatime2",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::Value"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Flash::Flash::IsFlashing"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flash",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "player",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::Value"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Flash::Flash::Flash"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flash",
+                    "4",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
                 "goopacheker2",
                 "",
                 "",
@@ -19478,6 +26719,360 @@
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "Goombatime",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Goombatime",
+                "isfliped",
+                "=",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "points",
+                    "Goombatime.X()",
+                    "Goombatime.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "points",
+                    "Text",
+                    "=",
+                    "\"100\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "points",
+                    "points",
+                    "=",
+                    "points.Y()-12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "points",
+                    "270",
+                    "32",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "totalpoints",
+                    "+",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "Text",
+                    "=",
+                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Goombatime",
+                    "isfliped",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Goombatime",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goombatime",
+                    "Animation",
+                    "=",
+                    "\"dead\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Goombatime",
+                    "Animation",
+                    "=",
+                    "\"dead\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Goombatime",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::Value"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Flash::Flash::IsFlashing"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flash",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "player",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::Value"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Flash::Flash::Flash"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flash",
+                    "4",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
