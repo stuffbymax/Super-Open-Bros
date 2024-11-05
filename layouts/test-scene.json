@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.4268613660451479,
+    "zoomFactor": 0.4561345456351479,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -34,8 +34,8 @@
       "name": "player",
       "persistentUuid": "fb9dcaec-7e8b-41ac-9109-daf88604cd6c",
       "width": 32,
-      "x": 32,
-      "y": 416,
+      "x": 1920,
+      "y": 384,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -1162,8 +1162,8 @@
       "name": "the_level",
       "persistentUuid": "71b8c88d-cfc0-47b4-934b-5004f3e1e918",
       "width": 3968,
-      "x": -32,
-      "y": 608,
+      "x": 32,
+      "y": 576,
       "zOrder": -9999999,
       "numberProperties": [],
       "stringProperties": [],
@@ -2633,7 +2633,7 @@
       "persistentUuid": "9db25f96-0782-49df-8d6c-2a57b5520300",
       "width": 32,
       "x": 1440,
-      "y": 192,
+      "y": 223,
       "zOrder": 57,
       "numberProperties": [],
       "stringProperties": [],
@@ -2650,7 +2650,7 @@
       "persistentUuid": "562869a1-9afc-49e5-9e3d-fd36dd89bf45",
       "width": 32,
       "x": 1472,
-      "y": 192,
+      "y": 223,
       "zOrder": 58,
       "numberProperties": [],
       "stringProperties": [],
@@ -2667,7 +2667,7 @@
       "persistentUuid": "edf26ef7-7b61-48ef-a22e-d3cbc1ccbd3b",
       "width": 32,
       "x": 1504,
-      "y": 192,
+      "y": 223,
       "zOrder": 59,
       "numberProperties": [],
       "stringProperties": [],
@@ -2684,7 +2684,7 @@
       "persistentUuid": "28ae9529-f132-4a32-ace3-0481a36d2b5e",
       "width": 32,
       "x": 1536,
-      "y": 192,
+      "y": 223,
       "zOrder": 60,
       "numberProperties": [],
       "stringProperties": [],
@@ -2701,7 +2701,7 @@
       "persistentUuid": "7f40adf1-982a-481d-8ca9-9c3fb08f46a3",
       "width": 32,
       "x": 1568,
-      "y": 192,
+      "y": 223,
       "zOrder": 61,
       "numberProperties": [],
       "stringProperties": [],
@@ -2718,7 +2718,7 @@
       "persistentUuid": "e400a62a-c6cf-427e-a6ad-93c0653c505c",
       "width": 32,
       "x": 1440,
-      "y": 224,
+      "y": 255,
       "zOrder": 64,
       "numberProperties": [],
       "stringProperties": [],
@@ -2735,7 +2735,7 @@
       "persistentUuid": "5be5340e-5e57-4074-8ec9-322bc51919ea",
       "width": 32,
       "x": 1472,
-      "y": 224,
+      "y": 255,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -2752,7 +2752,7 @@
       "persistentUuid": "fb436684-80fd-4244-b031-ef8140bed159",
       "width": 32,
       "x": 1504,
-      "y": 224,
+      "y": 255,
       "zOrder": 66,
       "numberProperties": [],
       "stringProperties": [],
@@ -2769,7 +2769,7 @@
       "persistentUuid": "987375f2-19f9-4ad1-99fd-02171c9fb9dc",
       "width": 32,
       "x": 1536,
-      "y": 224,
+      "y": 255,
       "zOrder": 67,
       "numberProperties": [],
       "stringProperties": [],
@@ -2786,7 +2786,7 @@
       "persistentUuid": "65138993-2328-4cb2-a808-06e6c6c01850",
       "width": 32,
       "x": 1568,
-      "y": 224,
+      "y": 255,
       "zOrder": 68,
       "numberProperties": [],
       "stringProperties": [],
@@ -2854,7 +2854,7 @@
       "persistentUuid": "22d5ed45-f160-4793-b974-0f02e16acd40",
       "width": 32,
       "x": 1440,
-      "y": 160,
+      "y": 191,
       "zOrder": 72,
       "numberProperties": [
         {
@@ -2876,7 +2876,7 @@
       "persistentUuid": "a4ecba7c-0b97-45be-b0da-5810da2c581a",
       "width": 32,
       "x": 1472,
-      "y": 160,
+      "y": 191,
       "zOrder": 73,
       "numberProperties": [
         {
@@ -2898,7 +2898,7 @@
       "persistentUuid": "1bded74f-4e72-4b8d-90cb-f730f16b4b27",
       "width": 32,
       "x": 1650,
-      "y": 192,
+      "y": 223,
       "zOrder": 74,
       "numberProperties": [],
       "stringProperties": [],
@@ -2915,7 +2915,7 @@
       "persistentUuid": "e584b75b-0796-4dc3-b38b-744a4abd2d5d",
       "width": 32,
       "x": 1682,
-      "y": 192,
+      "y": 223,
       "zOrder": 75,
       "numberProperties": [],
       "stringProperties": [],
@@ -2932,7 +2932,7 @@
       "persistentUuid": "adbfa37b-11dd-4304-a32b-afdd00573f59",
       "width": 32,
       "x": 1714,
-      "y": 192,
+      "y": 223,
       "zOrder": 76,
       "numberProperties": [],
       "stringProperties": [],
@@ -3379,7 +3379,7 @@
       "persistentUuid": "65d1ff9c-6267-45ff-8f7e-4f35b3f66ad6",
       "width": 32,
       "x": 1984,
-      "y": 160,
+      "y": 223,
       "zOrder": 84,
       "numberProperties": [],
       "stringProperties": [],
@@ -4331,7 +4331,7 @@
       "persistentUuid": "563c1d4a-1b63-4b69-b3bc-302a575417d3",
       "width": 29,
       "x": 1986,
-      "y": 192,
+      "y": 255,
       "zOrder": 88,
       "numberProperties": [],
       "stringProperties": [],
@@ -4365,7 +4365,7 @@
       "persistentUuid": "06475780-2a39-4e86-a7ef-457e97359543",
       "width": 32,
       "x": 2208,
-      "y": 160,
+      "y": 223,
       "zOrder": 91,
       "numberProperties": [],
       "stringProperties": [],
@@ -4382,7 +4382,7 @@
       "persistentUuid": "aea4c2ba-032c-4b04-8c55-9e24943a2e14",
       "width": 30,
       "x": 1651,
-      "y": 224,
+      "y": 255,
       "zOrder": 92,
       "numberProperties": [],
       "stringProperties": [],
@@ -4416,25 +4416,8 @@
       "persistentUuid": "0f7cd46c-2863-4b5e-928a-a6fd3238d5d5",
       "width": 31,
       "x": 1683,
-      "y": 224,
+      "y": 255,
       "zOrder": 93,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1,
-      "keepRatio": true,
-      "layer": "",
-      "name": "brickcoincheker",
-      "persistentUuid": "aa8afb06-175c-4938-a01d-2d80402434c9",
-      "width": 30,
-      "x": 1716,
-      "y": 352,
-      "zOrder": 94,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -4467,7 +4450,7 @@
       "persistentUuid": "de6e0e11-ef83-4b6a-9ef9-30b5b2021103",
       "width": 30,
       "x": 2209,
-      "y": 192,
+      "y": 255,
       "zOrder": 98,
       "numberProperties": [],
       "stringProperties": [],
@@ -4484,7 +4467,7 @@
       "persistentUuid": "5bbd1597-63a2-47eb-916a-d2b1ed743e92",
       "width": 27,
       "x": 1717,
-      "y": 224,
+      "y": 255,
       "zOrder": 99,
       "numberProperties": [],
       "stringProperties": [],
@@ -4552,7 +4535,7 @@
       "persistentUuid": "a08e5709-1bd0-41bc-82eb-c79ea5ace8a6",
       "width": 32,
       "x": 2240,
-      "y": 160,
+      "y": 223,
       "zOrder": 103,
       "numberProperties": [],
       "stringProperties": [],
@@ -4569,7 +4552,7 @@
       "persistentUuid": "9f4559cd-010d-4ff1-9f7a-d5322f9d1e85",
       "width": 32,
       "x": 2240,
-      "y": 192,
+      "y": 255,
       "zOrder": 104,
       "numberProperties": [],
       "stringProperties": [],
@@ -4586,7 +4569,7 @@
       "persistentUuid": "b8ea70db-6e6b-475a-8b1e-ef3e9db584b6",
       "width": 32,
       "x": 2368,
-      "y": 160,
+      "y": 223,
       "zOrder": 105,
       "numberProperties": [],
       "stringProperties": [],
@@ -4603,7 +4586,7 @@
       "persistentUuid": "a8b064e8-d5e6-40d2-9a10-007b9e2ba1a6",
       "width": 32,
       "x": 2400,
-      "y": 160,
+      "y": 223,
       "zOrder": 106,
       "numberProperties": [],
       "stringProperties": [],
@@ -4620,7 +4603,7 @@
       "persistentUuid": "2490d00d-b584-42e2-8c77-a793e3c62ff7",
       "width": 32,
       "x": 2336,
-      "y": 160,
+      "y": 223,
       "zOrder": 107,
       "numberProperties": [],
       "stringProperties": [],
@@ -4637,7 +4620,7 @@
       "persistentUuid": "bc482dd2-16ad-421f-88ea-ffd7656bf481",
       "width": 32,
       "x": 2432,
-      "y": 160,
+      "y": 223,
       "zOrder": 108,
       "numberProperties": [],
       "stringProperties": [],
@@ -4654,7 +4637,7 @@
       "persistentUuid": "c0b5e14e-90ed-4d14-9dd8-583eb57e414d",
       "width": 32,
       "x": 2336,
-      "y": 192,
+      "y": 255,
       "zOrder": 109,
       "numberProperties": [],
       "stringProperties": [],
@@ -4671,7 +4654,7 @@
       "persistentUuid": "5530cc21-82c3-46da-8b30-c6198f2832f3",
       "width": 32,
       "x": 2432,
-      "y": 192,
+      "y": 255,
       "zOrder": 110,
       "numberProperties": [],
       "stringProperties": [],
@@ -8496,7 +8479,7 @@
       "persistentUuid": "fde4facb-3208-4132-9927-fd8ec2cd113e",
       "width": 32,
       "x": 2368,
-      "y": 192,
+      "y": 255,
       "zOrder": 127,
       "numberProperties": [],
       "stringProperties": [],
@@ -8513,7 +8496,7 @@
       "persistentUuid": "3a1c8ff8-0a82-4278-8c75-09454a780be9",
       "width": 32,
       "x": 2400,
-      "y": 192,
+      "y": 255,
       "zOrder": 128,
       "numberProperties": [],
       "stringProperties": [],
@@ -8530,7 +8513,7 @@
       "persistentUuid": "04fce6f3-4b9e-4768-b34d-3674da03a16b",
       "width": 32,
       "x": 2208,
-      "y": 192,
+      "y": 255,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -8549,6 +8532,23 @@
       "x": 1824,
       "y": 352,
       "zOrder": 130,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "brickcoincheker",
+      "persistentUuid": "0821087f-6bbd-4a8b-8ecd-210f20462d9d",
+      "width": 32,
+      "x": 1715,
+      "y": 352,
+      "zOrder": 131,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -14314,7 +14314,13 @@
       "name": "spawncoin1",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "name": "coin",
+          "type": "number",
+          "value": 3
+        }
+      ],
       "effects": [],
       "behaviors": [],
       "animations": [
@@ -14324,7 +14330,7 @@
           "directions": [
             {
               "looping": true,
-              "timeBetweenFrames": 0.7,
+              "timeBetweenFrames": 0.01,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -17616,14 +17622,20 @@
       "name": "brickcoin",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "name": "spawnm",
+          "type": "boolean",
+          "value": true
+        }
+      ],
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -21104,6 +21116,108 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "spawncoin2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "coin",
+          "type": "number",
+          "value": 3
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.01,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Coin.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 16
+                      },
+                      {
+                        "x": 3,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Coin_Underground3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 2
+                      },
+                      {
+                        "x": 13,
+                        "y": 16
+                      },
+                      {
+                        "x": 3,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -21198,6 +21312,9 @@
       },
       {
         "objectName": "spawncoin1"
+      },
+      {
+        "objectName": "spawncoin2"
       },
       {
         "objectName": "points"
@@ -27131,6 +27248,386 @@
         }
       ],
       "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brickcoin",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "BooleanObjectVariable"
+          },
+          "parameters": [
+            "brickcoin",
+            "spawnm",
+            "True",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "player",
+            "brickcoincheker",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ScalableCapability::ScalableBehavior::Value"
+          },
+          "parameters": [
+            "player",
+            "Scale",
+            "=",
+            "2"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "spawncoin1",
+            "brickcoin.X()+4",
+            "brickcoin.Y()-30",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetBooleanObjectVariable"
+          },
+          "parameters": [
+            "brickcoin",
+            "spawnm",
+            "False",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetNumberObjectVariable"
+          },
+          "parameters": [
+            "spawncoin1",
+            "coin",
+            "-",
+            "1"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "points",
+                "brickcoin.X()",
+                "brickcoin.Y()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "points",
+                "Text",
+                "=",
+                "\"100\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "points",
+                "points",
+                "=",
+                "points.Y()-12"
+              ]
+            },
+            {
+              "type": {
+                "value": "AddForceAL"
+              },
+              "parameters": [
+                "points",
+                "270",
+                "32",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "hud_points",
+                "totalpoints",
+                "+",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "hud_points",
+                "Text",
+                "=",
+                "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "brickcoin",
+                    "spawnm",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "spawncoin1",
+                    "coin",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "spawncoin1",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "brickcoincheker",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "spawncoin1",
+                "coin",
+                "=",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "spawncoin2",
+                "brickcoin.X()+4",
+                "brickcoin.Y()-30",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "spawncoin1",
+                "coin",
+                "-",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "points",
+                    "brickcoin.X()",
+                    "brickcoin.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "points",
+                    "Text",
+                    "=",
+                    "\"100\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "points",
+                    "points",
+                    "=",
+                    "points.Y()-12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "points",
+                    "270",
+                    "32",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "totalpoints",
+                    "+",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "Text",
+                    "=",
+                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "brickcoin",
+                    "spawnm",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "spawncoin1",
+                    "coin",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "spawncoin2",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "layers": [
