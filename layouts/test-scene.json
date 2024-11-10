@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.4561345456351479,
+    "zoomFactor": 2.9218922053708534,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -4497,23 +4497,6 @@
       "height": 1,
       "keepRatio": true,
       "layer": "",
-      "name": "brickcheker7",
-      "persistentUuid": "c6f92353-5bb7-47bd-b0ed-4d7d1ef68b00",
-      "width": 32,
-      "x": 1984,
-      "y": 352,
-      "zOrder": 101,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1,
-      "keepRatio": true,
-      "layer": "",
       "name": "checker8",
       "persistentUuid": "e79cf9e5-2751-4001-b4d7-75a856a15d3e",
       "width": 32,
@@ -8552,6 +8535,23 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "checker7",
+      "persistentUuid": "edf7eab3-96b6-4914-87e9-3d8cfd5cd180",
+      "width": 32,
+      "x": 1984,
+      "y": 352,
+      "zOrder": 132,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -8579,6 +8579,11 @@
           "name": "isdead",
           "type": "boolean",
           "value": false
+        },
+        {
+          "name": "jump",
+          "type": "number",
+          "value": 0
         }
       ],
       "effects": [],
@@ -23525,7 +23530,7 @@
                 "value": "SetBooleanObjectVariable"
               },
               "parameters": [
-                "unknowm6",
+                "unknowm8",
                 "spawnm",
                 "False",
                 ""
@@ -27254,7 +27259,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "brickcoin",
+      "name": "brickcoin (not finished)",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [],
@@ -27330,6 +27335,17 @@
             "spawncoin1",
             "coin",
             "-",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "SetNumberObjectVariable"
+          },
+          "parameters": [
+            "player",
+            "jump",
+            "+",
             "1"
           ]
         }
@@ -27455,179 +27471,100 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "player",
-                "brickcoincheker",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "NumberObjectVariable"
-              },
-              "parameters": [
-                "spawncoin1",
-                "coin",
-                "=",
-                "2"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "spawncoin2",
-                "brickcoin.X()+4",
-                "brickcoin.Y()-30",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberObjectVariable"
-              },
-              "parameters": [
-                "spawncoin1",
-                "coin",
-                "-",
-                "1"
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "points",
-                    "brickcoin.X()",
-                    "brickcoin.Y()",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "points",
-                    "Text",
-                    "=",
-                    "\"100\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberObjectVariable"
-                  },
-                  "parameters": [
-                    "points",
-                    "points",
-                    "=",
-                    "points.Y()-12"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AddForceAL"
-                  },
-                  "parameters": [
-                    "points",
-                    "270",
-                    "32",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberObjectVariable"
-                  },
-                  "parameters": [
-                    "hud_points",
-                    "totalpoints",
-                    "+",
-                    "100"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "hud_points",
-                    "Text",
-                    "=",
-                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanObjectVariable"
-                  },
-                  "parameters": [
-                    "brickcoin",
-                    "spawnm",
-                    "False",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberObjectVariable"
-                  },
-                  "parameters": [
-                    "spawncoin1",
-                    "coin",
-                    "=",
-                    "1"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "spawncoin2",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
-            }
+          "type": {
+            "value": "NumberObjectVariable"
+          },
+          "parameters": [
+            "player",
+            "jump",
+            "=",
+            "3"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetBooleanObjectVariable"
+          },
+          "parameters": [
+            "brickcoin",
+            "spawnm",
+            "False",
+            ""
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "NumberObjectVariable"
+          },
+          "parameters": [
+            "player",
+            "jump",
+            "=",
+            "2"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetBooleanObjectVariable"
+          },
+          "parameters": [
+            "brickcoin",
+            "spawnm",
+            "True",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "NumberObjectVariable"
+          },
+          "parameters": [
+            "player",
+            "jump",
+            "=",
+            "1"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetBooleanObjectVariable"
+          },
+          "parameters": [
+            "brickcoin",
+            "spawnm",
+            "True",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
