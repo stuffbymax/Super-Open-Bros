@@ -18,36 +18,12 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 2.9218922053708534,
+    "zoomFactor": 1.0803698661939225,
     "windowMask": false
   },
   "objectsGroups": [],
   "variables": [],
   "instances": [
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 32,
-      "keepRatio": true,
-      "layer": "",
-      "name": "player",
-      "persistentUuid": "fb9dcaec-7e8b-41ac-9109-daf88604cd6c",
-      "width": 32,
-      "x": 1920,
-      "y": 384,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": [
-        {
-          "folded": true,
-          "name": "multyplier",
-          "type": "number",
-          "value": 0
-        }
-      ]
-    },
     {
       "angle": 0,
       "customSize": true,
@@ -75,8 +51,8 @@
       "name": "coin",
       "persistentUuid": "e9bf342d-5f06-4103-adfd-26a0e0a56da0",
       "width": 32,
-      "x": 164,
-      "y": 96,
+      "x": -5,
+      "y": 13,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -91,8 +67,8 @@
       "name": "hud_points",
       "persistentUuid": "7c1e139b-6b8b-47c4-9d92-81ab74027d1d",
       "width": 0,
-      "x": 192,
-      "y": 107,
+      "x": 23,
+      "y": 24,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -1162,8 +1138,8 @@
       "name": "the_level",
       "persistentUuid": "71b8c88d-cfc0-47b4-934b-5004f3e1e918",
       "width": 3968,
-      "x": 32,
-      "y": 576,
+      "x": 0,
+      "y": 512,
       "zOrder": -9999999,
       "numberProperties": [],
       "stringProperties": [],
@@ -2948,7 +2924,7 @@
       "name": "brickcoin",
       "persistentUuid": "1ef61405-0f5b-4b08-b9fd-e1545c082aae",
       "width": 32,
-      "x": 1715,
+      "x": 1742,
       "y": 320,
       "zOrder": 77,
       "numberProperties": [],
@@ -3272,7 +3248,7 @@
       "persistentUuid": "0dab4049-ce34-4d71-a44d-ba59eb0cd590",
       "width": 64,
       "x": 1632,
-      "y": 384,
+      "y": 394,
       "zOrder": -79,
       "numberProperties": [
         {
@@ -3293,7 +3269,7 @@
       "name": "brick12",
       "persistentUuid": "3682eddd-0e7c-4595-b15b-501c9dbd2c75",
       "width": 32,
-      "x": 1792,
+      "x": 1824,
       "y": 320,
       "zOrder": 79,
       "numberProperties": [],
@@ -3310,7 +3286,7 @@
       "name": "brickstar",
       "persistentUuid": "26383e73-ed4b-4e7d-8579-0ae76eb0c055",
       "width": 32,
-      "x": 1824,
+      "x": 1856,
       "y": 320,
       "zOrder": 80,
       "numberProperties": [],
@@ -3327,8 +3303,8 @@
       "name": "unknowm6",
       "persistentUuid": "ae8b137f-2ad8-4dcc-9140-b43cafb31ba2",
       "width": 32,
-      "x": 1915,
-      "y": 320,
+      "x": 1947,
+      "y": 321,
       "zOrder": 81,
       "numberProperties": [],
       "stringProperties": [],
@@ -3344,8 +3320,8 @@
       "name": "unknowm7",
       "persistentUuid": "e886c476-3aee-4a6d-a4cd-e5e700055bcf",
       "width": 32,
-      "x": 1984,
-      "y": 320,
+      "x": 2016,
+      "y": 321,
       "zOrder": 82,
       "numberProperties": [],
       "stringProperties": [],
@@ -3361,8 +3337,8 @@
       "name": "unknowm8",
       "persistentUuid": "37c98533-7ed9-4a9e-aff0-116fc9c62179",
       "width": 32,
-      "x": 2048,
-      "y": 320,
+      "x": 2080,
+      "y": 321,
       "zOrder": 83,
       "numberProperties": [],
       "stringProperties": [],
@@ -3378,8 +3354,8 @@
       "name": "unknown4",
       "persistentUuid": "65d1ff9c-6267-45ff-8f7e-4f35b3f66ad6",
       "width": 32,
-      "x": 1984,
-      "y": 223,
+      "x": 2016,
+      "y": 224,
       "zOrder": 84,
       "numberProperties": [],
       "stringProperties": [],
@@ -4330,8 +4306,8 @@
       "name": "unknownchecker4",
       "persistentUuid": "563c1d4a-1b63-4b69-b3bc-302a575417d3",
       "width": 29,
-      "x": 1986,
-      "y": 255,
+      "x": 2018,
+      "y": 256,
       "zOrder": 88,
       "numberProperties": [],
       "stringProperties": [],
@@ -4347,8 +4323,8 @@
       "name": "brick13",
       "persistentUuid": "a0305cee-95f0-4615-be13-2c0759c03ba9",
       "width": 32,
-      "x": 2144,
-      "y": 320,
+      "x": 2176,
+      "y": 321,
       "zOrder": 90,
       "numberProperties": [],
       "stringProperties": [],
@@ -4364,8 +4340,8 @@
       "name": "brick14",
       "persistentUuid": "06475780-2a39-4e86-a7ef-457e97359543",
       "width": 32,
-      "x": 2208,
-      "y": 223,
+      "x": 2240,
+      "y": 224,
       "zOrder": 91,
       "numberProperties": [],
       "stringProperties": [],
@@ -4432,8 +4408,8 @@
       "name": "brickcheker13",
       "persistentUuid": "93caec39-f563-4fbd-ae6e-cdc0d2f3ac7f",
       "width": 30,
-      "x": 2145,
-      "y": 352,
+      "x": 2177,
+      "y": 353,
       "zOrder": 97,
       "numberProperties": [],
       "stringProperties": [],
@@ -4449,8 +4425,8 @@
       "name": "brickcheker14",
       "persistentUuid": "de6e0e11-ef83-4b6a-9ef9-30b5b2021103",
       "width": 30,
-      "x": 2209,
-      "y": 255,
+      "x": 2241,
+      "y": 256,
       "zOrder": 98,
       "numberProperties": [],
       "stringProperties": [],
@@ -4483,8 +4459,8 @@
       "name": "checker6",
       "persistentUuid": "d5d46e13-daae-4493-b8de-1325b46de427",
       "width": 32,
-      "x": 1915,
-      "y": 352,
+      "x": 1947,
+      "y": 353,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -4500,8 +4476,8 @@
       "name": "checker8",
       "persistentUuid": "e79cf9e5-2751-4001-b4d7-75a856a15d3e",
       "width": 32,
-      "x": 2048,
-      "y": 352,
+      "x": 2080,
+      "y": 353,
       "zOrder": 102,
       "numberProperties": [],
       "stringProperties": [],
@@ -4517,8 +4493,8 @@
       "name": "brick15",
       "persistentUuid": "a08e5709-1bd0-41bc-82eb-c79ea5ace8a6",
       "width": 32,
-      "x": 2240,
-      "y": 223,
+      "x": 2272,
+      "y": 224,
       "zOrder": 103,
       "numberProperties": [],
       "stringProperties": [],
@@ -4534,8 +4510,8 @@
       "name": "brickcheker15",
       "persistentUuid": "9f4559cd-010d-4ff1-9f7a-d5322f9d1e85",
       "width": 32,
-      "x": 2240,
-      "y": 255,
+      "x": 2272,
+      "y": 256,
       "zOrder": 104,
       "numberProperties": [],
       "stringProperties": [],
@@ -4551,8 +4527,8 @@
       "name": "unknowm9",
       "persistentUuid": "b8ea70db-6e6b-475a-8b1e-ef3e9db584b6",
       "width": 32,
-      "x": 2368,
-      "y": 223,
+      "x": 2400,
+      "y": 224,
       "zOrder": 105,
       "numberProperties": [],
       "stringProperties": [],
@@ -4568,8 +4544,8 @@
       "name": "unknowm10",
       "persistentUuid": "a8b064e8-d5e6-40d2-9a10-007b9e2ba1a6",
       "width": 32,
-      "x": 2400,
-      "y": 223,
+      "x": 2432,
+      "y": 224,
       "zOrder": 106,
       "numberProperties": [],
       "stringProperties": [],
@@ -4585,8 +4561,8 @@
       "name": "brick16",
       "persistentUuid": "2490d00d-b584-42e2-8c77-a793e3c62ff7",
       "width": 32,
-      "x": 2336,
-      "y": 223,
+      "x": 2368,
+      "y": 224,
       "zOrder": 107,
       "numberProperties": [],
       "stringProperties": [],
@@ -4602,8 +4578,8 @@
       "name": "brick17",
       "persistentUuid": "bc482dd2-16ad-421f-88ea-ffd7656bf481",
       "width": 32,
-      "x": 2432,
-      "y": 223,
+      "x": 2464,
+      "y": 224,
       "zOrder": 108,
       "numberProperties": [],
       "stringProperties": [],
@@ -4619,8 +4595,8 @@
       "name": "brickcheker16",
       "persistentUuid": "c0b5e14e-90ed-4d14-9dd8-583eb57e414d",
       "width": 32,
-      "x": 2336,
-      "y": 255,
+      "x": 2368,
+      "y": 256,
       "zOrder": 109,
       "numberProperties": [],
       "stringProperties": [],
@@ -4636,8 +4612,8 @@
       "name": "brickcheker17",
       "persistentUuid": "5530cc21-82c3-46da-8b30-c6198f2832f3",
       "width": 32,
-      "x": 2432,
-      "y": 255,
+      "x": 2464,
+      "y": 256,
       "zOrder": 110,
       "numberProperties": [],
       "stringProperties": [],
@@ -8393,7 +8369,7 @@
       "name": "brickcheker12",
       "persistentUuid": "f5a0fefe-f237-4802-a0ad-22f7e1c12547",
       "width": 32,
-      "x": 1792,
+      "x": 1824,
       "y": 352,
       "zOrder": 123,
       "numberProperties": [],
@@ -8461,8 +8437,8 @@
       "name": "checker9",
       "persistentUuid": "fde4facb-3208-4132-9927-fd8ec2cd113e",
       "width": 32,
-      "x": 2368,
-      "y": 255,
+      "x": 2400,
+      "y": 256,
       "zOrder": 127,
       "numberProperties": [],
       "stringProperties": [],
@@ -8478,8 +8454,8 @@
       "name": "checker10",
       "persistentUuid": "3a1c8ff8-0a82-4278-8c75-09454a780be9",
       "width": 32,
-      "x": 2400,
-      "y": 255,
+      "x": 2432,
+      "y": 256,
       "zOrder": 128,
       "numberProperties": [],
       "stringProperties": [],
@@ -8495,8 +8471,8 @@
       "name": "brickcheker14",
       "persistentUuid": "04fce6f3-4b9e-4768-b34d-3674da03a16b",
       "width": 32,
-      "x": 2208,
-      "y": 255,
+      "x": 2240,
+      "y": 256,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -8512,8 +8488,8 @@
       "name": "brickstarcheker",
       "persistentUuid": "908ffcac-0faa-44e4-8869-d4f6fd82151d",
       "width": 32,
-      "x": 1824,
-      "y": 352,
+      "x": 1856,
+      "y": 351,
       "zOrder": 130,
       "numberProperties": [],
       "stringProperties": [],
@@ -8529,8 +8505,8 @@
       "name": "brickcoincheker",
       "persistentUuid": "0821087f-6bbd-4a8b-8ecd-210f20462d9d",
       "width": 32,
-      "x": 1715,
-      "y": 352,
+      "x": 1742,
+      "y": 351,
       "zOrder": 131,
       "numberProperties": [],
       "stringProperties": [],
@@ -8546,9 +8522,268 @@
       "name": "checker7",
       "persistentUuid": "edf7eab3-96b6-4914-87e9-3d8cfd5cd180",
       "width": 32,
-      "x": 1984,
-      "y": 352,
+      "x": 2016,
+      "y": 353,
       "zOrder": 132,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 13,
+      "keepRatio": true,
+      "layer": "HUD",
+      "name": "level_name",
+      "persistentUuid": "18067ccf-7992-4ba0-8a93-27f82aacd334",
+      "width": 135,
+      "x": 639,
+      "y": 24,
+      "zOrder": 133,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Goomba_auto",
+      "persistentUuid": "b4951533-5f47-44fe-9a14-81d700ea87f1",
+      "width": 32,
+      "x": 736,
+      "y": 416,
+      "zOrder": 136,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Goomba_auto",
+      "persistentUuid": "68d47528-fc7d-460d-a51b-62187c05b01b",
+      "width": 32,
+      "x": 896,
+      "y": 416,
+      "zOrder": 136,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Goomba_auto2",
+      "persistentUuid": "5f152365-0ab0-40c0-98fa-3e0acc1003c9",
+      "width": 32,
+      "x": 928,
+      "y": 416,
+      "zOrder": 137,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 112,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hill2",
+      "persistentUuid": "bbb6cdee-b752-49cf-b124-56ff49b20bde",
+      "width": 128,
+      "x": 1728,
+      "y": 368,
+      "zOrder": -99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bush",
+      "persistentUuid": "c51fd6cc-b468-48b7-a831-aed06fcdb178",
+      "width": 64,
+      "x": 2080,
+      "y": 399,
+      "zOrder": -974,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 40,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bush",
+      "persistentUuid": "842d037f-5eb2-4ab5-828c-1e4f614bdf5a",
+      "width": 38,
+      "x": 2237,
+      "y": 414,
+      "zOrder": -999,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 288,
+      "keepRatio": true,
+      "layer": "",
+      "name": "goopacheker3",
+      "persistentUuid": "54d2a121-d85f-4025-a158-c89be77c2e73",
+      "width": 608,
+      "x": 1888,
+      "y": 160,
+      "zOrder": -999,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hill",
+      "persistentUuid": "3eb800a7-81fe-43ec-b4c1-15dc5bfaacd5",
+      "width": 64,
+      "x": 2144,
+      "y": 403,
+      "zOrder": -999,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Goombatime3",
+      "persistentUuid": "0e5df33c-5f48-4d55-862f-2ad876c6ee49",
+      "width": 32,
+      "x": 2144,
+      "y": 416,
+      "zOrder": 138,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Goombatime3",
+      "persistentUuid": "91332da8-79c9-419c-bb3d-75a4ee441b6b",
+      "width": 32,
+      "x": 2190,
+      "y": 416,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Goombatime3",
+      "persistentUuid": "cc57ae11-3972-4e3f-ae7e-e2922e9f06fe",
+      "width": 32,
+      "x": 2316,
+      "y": 416,
+      "zOrder": 140,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Goombatime3",
+      "persistentUuid": "51ad6917-666a-4868-ae2e-a1a447795dea",
+      "width": 32,
+      "x": 2353,
+      "y": 416,
+      "zOrder": 141,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "HUD",
+      "name": "DebugText",
+      "persistentUuid": "864084d6-9b19-4060-b513-bdf4a3216fad",
+      "width": 0,
+      "x": 348,
+      "y": 1,
+      "zOrder": 142,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "player",
+      "persistentUuid": "edf95384-db74-4fa3-b236-b37aa05c89e9",
+      "width": 32,
+      "x": 96,
+      "y": 416,
+      "zOrder": 143,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -13845,7 +14080,28 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 700,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 200,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -17629,7 +17885,7 @@
       "updateIfNotVisible": false,
       "variables": [
         {
-          "name": "spawnm",
+          "name": "spawn",
           "type": "boolean",
           "value": true
         }
@@ -18496,9 +18752,23 @@
       "name": "brickstar",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "name": "spawn",
+          "type": "boolean",
+          "value": true
+        }
+      ],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -21223,6 +21493,2366 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "level_name",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Level 0-1",
+      "font": "Super Mario Bros. 2.ttf",
+      "textAlignment": "left",
+      "characterSize": 15,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Level 0-1",
+        "font": "Super Mario Bros. 2.ttf",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 15,
+        "color": "255;255;255"
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Goomba_auto",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "isfliped",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "isFolded": true,
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 64,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        },
+        {
+          "name": "TimedBackAndForthMirroredMovement",
+          "type": "TimedBackAndForthMovement::TimedBackAndForthMirroredMovement",
+          "Flippable": "Flippable",
+          "Vertical": false,
+          "Speed": 70,
+          "Distance": 100,
+          "Timeout": 1,
+          "StartPosition": 0,
+          "LastPosition": 0,
+          "Timecheck": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "move",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Walk1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 4,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 11
+                      },
+                      {
+                        "x": 12,
+                        "y": 11
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 4,
+                        "y": 13
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 13
+                      },
+                      {
+                        "x": 15,
+                        "y": 13
+                      },
+                      {
+                        "x": 15,
+                        "y": 15
+                      },
+                      {
+                        "x": 3,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 12,
+                        "y": 12
+                      },
+                      {
+                        "x": 14,
+                        "y": 12
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 11
+                      },
+                      {
+                        "x": 1,
+                        "y": 11
+                      }
+                    ],
+                    [
+                      {
+                        "x": 0,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 10
+                      },
+                      {
+                        "x": 0,
+                        "y": 10
+                      }
+                    ],
+                    [
+                      {
+                        "x": 2,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 5
+                      },
+                      {
+                        "x": 2,
+                        "y": 5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 4
+                      },
+                      {
+                        "x": 3,
+                        "y": 4
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 3
+                      },
+                      {
+                        "x": 4,
+                        "y": 3
+                      }
+                    ],
+                    [
+                      {
+                        "x": 5,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 2
+                      },
+                      {
+                        "x": 5,
+                        "y": 2
+                      }
+                    ],
+                    [
+                      {
+                        "x": 6,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 1
+                      },
+                      {
+                        "x": 6,
+                        "y": 1
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Walk2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 12
+                      },
+                      {
+                        "x": 4,
+                        "y": 12
+                      },
+                      {
+                        "x": 7,
+                        "y": 14
+                      },
+                      {
+                        "x": 7,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 13
+                      },
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 2,
+                        "y": 15
+                      },
+                      {
+                        "x": 1,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 9,
+                        "y": 14.5
+                      },
+                      {
+                        "x": 12,
+                        "y": 14
+                      },
+                      {
+                        "x": 12,
+                        "y": 16
+                      },
+                      {
+                        "x": 9,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 11,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 15
+                      },
+                      {
+                        "x": 12,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 10
+                      },
+                      {
+                        "x": 12,
+                        "y": 10
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 4,
+                        "y": 12
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 11
+                      },
+                      {
+                        "x": 1,
+                        "y": 11
+                      }
+                    ],
+                    [
+                      {
+                        "x": 0,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 10
+                      },
+                      {
+                        "x": 0,
+                        "y": 10
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 7
+                      },
+                      {
+                        "x": 1,
+                        "y": 7
+                      }
+                    ],
+                    [
+                      {
+                        "x": 2,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 5
+                      },
+                      {
+                        "x": 2,
+                        "y": 5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 4
+                      },
+                      {
+                        "x": 3,
+                        "y": 4
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 3
+                      },
+                      {
+                        "x": 4,
+                        "y": 3
+                      }
+                    ],
+                    [
+                      {
+                        "x": 5,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 2
+                      },
+                      {
+                        "x": 5,
+                        "y": 2
+                      }
+                    ],
+                    [
+                      {
+                        "x": 6,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 1
+                      },
+                      {
+                        "x": 6,
+                        "y": 1
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dead",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Flat.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 11
+                      },
+                      {
+                        "x": 16,
+                        "y": 11
+                      },
+                      {
+                        "x": 16,
+                        "y": 13
+                      },
+                      {
+                        "x": 0,
+                        "y": 13
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 11
+                      },
+                      {
+                        "x": 1,
+                        "y": 11
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 9
+                      },
+                      {
+                        "x": 13,
+                        "y": 9
+                      },
+                      {
+                        "x": 13,
+                        "y": 10
+                      },
+                      {
+                        "x": 3,
+                        "y": 10
+                      }
+                    ],
+                    [
+                      {
+                        "x": 6,
+                        "y": 8
+                      },
+                      {
+                        "x": 10,
+                        "y": 8
+                      },
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 6,
+                        "y": 9
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 15
+                      },
+                      {
+                        "x": 6,
+                        "y": 15
+                      },
+                      {
+                        "x": 6,
+                        "y": 16
+                      },
+                      {
+                        "x": 1,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 10,
+                        "y": 15
+                      },
+                      {
+                        "x": 15,
+                        "y": 15
+                      },
+                      {
+                        "x": 15,
+                        "y": 16
+                      },
+                      {
+                        "x": 10,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 15
+                      },
+                      {
+                        "x": 4,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 14
+                      },
+                      {
+                        "x": 3,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Walk3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Goomba_auto2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "isfliped",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "isFolded": true,
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 64,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        },
+        {
+          "name": "TimedBackAndForthMirroredMovement",
+          "type": "TimedBackAndForthMovement::TimedBackAndForthMirroredMovement",
+          "Flippable": "Flippable",
+          "Vertical": false,
+          "Speed": 70,
+          "Distance": 90,
+          "Timeout": 2,
+          "StartPosition": 0,
+          "LastPosition": 0,
+          "Timecheck": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "move",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Walk1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 4,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 11
+                      },
+                      {
+                        "x": 12,
+                        "y": 11
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 4,
+                        "y": 13
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 13
+                      },
+                      {
+                        "x": 15,
+                        "y": 13
+                      },
+                      {
+                        "x": 15,
+                        "y": 15
+                      },
+                      {
+                        "x": 3,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 12,
+                        "y": 12
+                      },
+                      {
+                        "x": 14,
+                        "y": 12
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 11
+                      },
+                      {
+                        "x": 1,
+                        "y": 11
+                      }
+                    ],
+                    [
+                      {
+                        "x": 0,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 10
+                      },
+                      {
+                        "x": 0,
+                        "y": 10
+                      }
+                    ],
+                    [
+                      {
+                        "x": 2,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 5
+                      },
+                      {
+                        "x": 2,
+                        "y": 5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 4
+                      },
+                      {
+                        "x": 3,
+                        "y": 4
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 3
+                      },
+                      {
+                        "x": 4,
+                        "y": 3
+                      }
+                    ],
+                    [
+                      {
+                        "x": 5,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 2
+                      },
+                      {
+                        "x": 5,
+                        "y": 2
+                      }
+                    ],
+                    [
+                      {
+                        "x": 6,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 1
+                      },
+                      {
+                        "x": 6,
+                        "y": 1
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Walk2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 12
+                      },
+                      {
+                        "x": 4,
+                        "y": 12
+                      },
+                      {
+                        "x": 7,
+                        "y": 14
+                      },
+                      {
+                        "x": 7,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 13
+                      },
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 2,
+                        "y": 15
+                      },
+                      {
+                        "x": 1,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 9,
+                        "y": 14.5
+                      },
+                      {
+                        "x": 12,
+                        "y": 14
+                      },
+                      {
+                        "x": 12,
+                        "y": 16
+                      },
+                      {
+                        "x": 9,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 11,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 15
+                      },
+                      {
+                        "x": 12,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 10
+                      },
+                      {
+                        "x": 12,
+                        "y": 10
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 4,
+                        "y": 12
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 11
+                      },
+                      {
+                        "x": 1,
+                        "y": 11
+                      }
+                    ],
+                    [
+                      {
+                        "x": 0,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 10
+                      },
+                      {
+                        "x": 0,
+                        "y": 10
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 7
+                      },
+                      {
+                        "x": 1,
+                        "y": 7
+                      }
+                    ],
+                    [
+                      {
+                        "x": 2,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 5
+                      },
+                      {
+                        "x": 2,
+                        "y": 5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 4
+                      },
+                      {
+                        "x": 3,
+                        "y": 4
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 3
+                      },
+                      {
+                        "x": 4,
+                        "y": 3
+                      }
+                    ],
+                    [
+                      {
+                        "x": 5,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 2
+                      },
+                      {
+                        "x": 5,
+                        "y": 2
+                      }
+                    ],
+                    [
+                      {
+                        "x": 6,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 1
+                      },
+                      {
+                        "x": 6,
+                        "y": 1
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dead",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Flat.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 11
+                      },
+                      {
+                        "x": 16,
+                        "y": 11
+                      },
+                      {
+                        "x": 16,
+                        "y": 13
+                      },
+                      {
+                        "x": 0,
+                        "y": 13
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 11
+                      },
+                      {
+                        "x": 1,
+                        "y": 11
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 9
+                      },
+                      {
+                        "x": 13,
+                        "y": 9
+                      },
+                      {
+                        "x": 13,
+                        "y": 10
+                      },
+                      {
+                        "x": 3,
+                        "y": 10
+                      }
+                    ],
+                    [
+                      {
+                        "x": 6,
+                        "y": 8
+                      },
+                      {
+                        "x": 10,
+                        "y": 8
+                      },
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 6,
+                        "y": 9
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 15
+                      },
+                      {
+                        "x": 6,
+                        "y": 15
+                      },
+                      {
+                        "x": 6,
+                        "y": 16
+                      },
+                      {
+                        "x": 1,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 10,
+                        "y": 15
+                      },
+                      {
+                        "x": 15,
+                        "y": 15
+                      },
+                      {
+                        "x": 15,
+                        "y": 16
+                      },
+                      {
+                        "x": 10,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 15
+                      },
+                      {
+                        "x": 4,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 14
+                      },
+                      {
+                        "x": 3,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Walk3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "goopacheker3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Goombatime3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "isfliped",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 64,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "move",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Walk1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 4,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 11
+                      },
+                      {
+                        "x": 12,
+                        "y": 11
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 4,
+                        "y": 13
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 13
+                      },
+                      {
+                        "x": 15,
+                        "y": 13
+                      },
+                      {
+                        "x": 15,
+                        "y": 15
+                      },
+                      {
+                        "x": 3,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 12,
+                        "y": 12
+                      },
+                      {
+                        "x": 14,
+                        "y": 12
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 11
+                      },
+                      {
+                        "x": 1,
+                        "y": 11
+                      }
+                    ],
+                    [
+                      {
+                        "x": 0,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 10
+                      },
+                      {
+                        "x": 0,
+                        "y": 10
+                      }
+                    ],
+                    [
+                      {
+                        "x": 2,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 5
+                      },
+                      {
+                        "x": 2,
+                        "y": 5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 4
+                      },
+                      {
+                        "x": 3,
+                        "y": 4
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 3
+                      },
+                      {
+                        "x": 4,
+                        "y": 3
+                      }
+                    ],
+                    [
+                      {
+                        "x": 5,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 2
+                      },
+                      {
+                        "x": 5,
+                        "y": 2
+                      }
+                    ],
+                    [
+                      {
+                        "x": 6,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 1
+                      },
+                      {
+                        "x": 6,
+                        "y": 1
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Walk2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 12
+                      },
+                      {
+                        "x": 4,
+                        "y": 12
+                      },
+                      {
+                        "x": 7,
+                        "y": 14
+                      },
+                      {
+                        "x": 7,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 13
+                      },
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 2,
+                        "y": 15
+                      },
+                      {
+                        "x": 1,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 9,
+                        "y": 14.5
+                      },
+                      {
+                        "x": 12,
+                        "y": 14
+                      },
+                      {
+                        "x": 12,
+                        "y": 16
+                      },
+                      {
+                        "x": 9,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 11,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 15
+                      },
+                      {
+                        "x": 12,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 10
+                      },
+                      {
+                        "x": 12,
+                        "y": 10
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 4,
+                        "y": 12
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 11
+                      },
+                      {
+                        "x": 1,
+                        "y": 11
+                      }
+                    ],
+                    [
+                      {
+                        "x": 0,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 7
+                      },
+                      {
+                        "x": 16,
+                        "y": 10
+                      },
+                      {
+                        "x": 0,
+                        "y": 10
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 5
+                      },
+                      {
+                        "x": 15,
+                        "y": 7
+                      },
+                      {
+                        "x": 1,
+                        "y": 7
+                      }
+                    ],
+                    [
+                      {
+                        "x": 2,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 4
+                      },
+                      {
+                        "x": 14,
+                        "y": 5
+                      },
+                      {
+                        "x": 2,
+                        "y": 5
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 3
+                      },
+                      {
+                        "x": 13,
+                        "y": 4
+                      },
+                      {
+                        "x": 3,
+                        "y": 4
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 2
+                      },
+                      {
+                        "x": 12,
+                        "y": 3
+                      },
+                      {
+                        "x": 4,
+                        "y": 3
+                      }
+                    ],
+                    [
+                      {
+                        "x": 5,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 1
+                      },
+                      {
+                        "x": 11,
+                        "y": 2
+                      },
+                      {
+                        "x": 5,
+                        "y": 2
+                      }
+                    ],
+                    [
+                      {
+                        "x": 6,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 0
+                      },
+                      {
+                        "x": 10,
+                        "y": 1
+                      },
+                      {
+                        "x": 6,
+                        "y": 1
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dead",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Flat.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 11
+                      },
+                      {
+                        "x": 16,
+                        "y": 11
+                      },
+                      {
+                        "x": 16,
+                        "y": 13
+                      },
+                      {
+                        "x": 0,
+                        "y": 13
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 10
+                      },
+                      {
+                        "x": 15,
+                        "y": 11
+                      },
+                      {
+                        "x": 1,
+                        "y": 11
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 9
+                      },
+                      {
+                        "x": 13,
+                        "y": 9
+                      },
+                      {
+                        "x": 13,
+                        "y": 10
+                      },
+                      {
+                        "x": 3,
+                        "y": 10
+                      }
+                    ],
+                    [
+                      {
+                        "x": 6,
+                        "y": 8
+                      },
+                      {
+                        "x": 10,
+                        "y": 8
+                      },
+                      {
+                        "x": 10,
+                        "y": 9
+                      },
+                      {
+                        "x": 6,
+                        "y": 9
+                      }
+                    ],
+                    [
+                      {
+                        "x": 1,
+                        "y": 15
+                      },
+                      {
+                        "x": 6,
+                        "y": 15
+                      },
+                      {
+                        "x": 6,
+                        "y": 16
+                      },
+                      {
+                        "x": 1,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 10,
+                        "y": 15
+                      },
+                      {
+                        "x": 15,
+                        "y": 15
+                      },
+                      {
+                        "x": 15,
+                        "y": 16
+                      },
+                      {
+                        "x": 10,
+                        "y": 16
+                      }
+                    ],
+                    [
+                      {
+                        "x": 4,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 15
+                      },
+                      {
+                        "x": 4,
+                        "y": 15
+                      }
+                    ],
+                    [
+                      {
+                        "x": 3,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 13
+                      },
+                      {
+                        "x": 13,
+                        "y": 14
+                      },
+                      {
+                        "x": 3,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Goomba_Walk3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "DebugText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "FPSDisplayer",
+          "type": "FPS::FPSDisplayer",
+          "Text": "Text",
+          "prefix": "FPS: ",
+          "DecimalDigits": 0
+        }
+      ],
+      "string": "Text",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "255;255;255",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Text",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 20,
+        "color": "255;255;255"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -21430,10 +24060,19 @@
         "objectName": "Goomba"
       },
       {
+        "objectName": "Goomba_auto"
+      },
+      {
+        "objectName": "Goomba_auto2"
+      },
+      {
         "objectName": "Goombatime"
       },
       {
         "objectName": "Goombatime2"
+      },
+      {
+        "objectName": "Goombatime3"
       },
       {
         "objectName": "koopa"
@@ -21449,6 +24088,9 @@
       },
       {
         "objectName": "hud_points"
+      },
+      {
+        "objectName": "level_name"
       },
       {
         "objectName": "mushroom"
@@ -21550,6 +24192,9 @@
         "objectName": "goopacheker2"
       },
       {
+        "objectName": "goopacheker3"
+      },
+      {
         "objectName": "brickcoin"
       },
       {
@@ -21557,6 +24202,9 @@
       },
       {
         "objectName": "brickstarcheker"
+      },
+      {
+        "objectName": "DebugText"
       }
     ]
   },
@@ -21747,189 +24395,6 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "F2"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "checker",
-                "\"test-scene\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "checker2",
-                "\"test-scene\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "checker3",
-                "\"test-scene\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "checker4",
-                "\"test-scene\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "brickcheker",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "brickcheker2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "brickcheker3",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "brickcheker4",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "brickcheker5",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "brickcheker6",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "brickcheker7",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "brickcheker8",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "brickcheker9",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "unknownchecker",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "unknownchecker2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "unknownchecker3",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "goopacheker",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Montre"
-              },
-              "parameters": [
-                "goopacheker2",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -21953,6 +24418,67 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "F2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "DebuggerTools::EnableDebugDraw"
+              },
+              "parameters": [
+                "",
+                "yes",
+                "yes",
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "F3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "DebuggerTools::EnableDebugDraw"
+              },
+              "parameters": [
+                "",
+                "no",
+                "no",
+                "no",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "parameters": []
@@ -21962,7 +24488,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "player stuff",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -22785,6 +25310,732 @@
               "parameters": [
                 "points",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "Goomba_auto",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Goomba_auto",
+                "isfliped",
+                "=",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "points",
+                    "Goomba_auto.X()",
+                    "Goomba_auto.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "points",
+                    "Text",
+                    "=",
+                    "\"100\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "points",
+                    "points",
+                    "=",
+                    "points.Y()-12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "points",
+                    "270",
+                    "32",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "totalpoints",
+                    "+",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "Text",
+                    "=",
+                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Goomba_auto",
+                    "isfliped",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Goomba_auto",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goomba_auto",
+                    "Animation",
+                    "=",
+                    "\"dead\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Goomba_auto",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Goomba",
+                    "Animation",
+                    "=",
+                    "\"dead\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Goomba",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::Value"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Flash::Flash::IsFlashing"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flash",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "player",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::Value"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Flash::Flash::Flash"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flash",
+                    "4",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "Goomba_auto2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Goomba_auto2",
+                "isfliped",
+                "=",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "points",
+                    "Goomba_auto2.X()",
+                    "Goomba_auto2.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "points",
+                    "Text",
+                    "=",
+                    "\"100\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "points",
+                    "points",
+                    "=",
+                    "points.Y()-12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "points",
+                    "270",
+                    "32",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "totalpoints",
+                    "+",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "Text",
+                    "=",
+                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Goomba_auto2",
+                    "isfliped",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Goomba_auto2",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goomba_auto2",
+                    "Animation",
+                    "=",
+                    "\"dead\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Goomba_auto2",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Goomba",
+                    "Animation",
+                    "=",
+                    "\"dead\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Goomba",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::Value"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Flash::Flash::IsFlashing"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flash",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "player",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::Value"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Flash::Flash::Flash"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flash",
+                    "4",
+                    ""
+                  ]
+                }
               ]
             }
           ]
@@ -25374,7 +28625,7 @@
               },
               "parameters": [
                 "player",
-                "brickcheker15",
+                "brickcheker17",
                 "",
                 "",
                 ""
@@ -25435,7 +28686,7 @@
               },
               "parameters": [
                 "player",
-                "brickcheker15",
+                "brickcheker16",
                 "",
                 "",
                 ""
@@ -27274,7 +30525,7 @@
           },
           "parameters": [
             "brickcoin",
-            "spawnm",
+            "spawn",
             "True",
             ""
           ]
@@ -27322,7 +30573,7 @@
           },
           "parameters": [
             "brickcoin",
-            "spawnm",
+            "spawn",
             "False",
             ""
           ]
@@ -27433,7 +30684,7 @@
                   },
                   "parameters": [
                     "brickcoin",
-                    "spawnm",
+                    "spawn",
                     "False",
                     ""
                   ]
@@ -27496,7 +30747,7 @@
           },
           "parameters": [
             "brickcoin",
-            "spawnm",
+            "spawn",
             "False",
             ""
           ]
@@ -27525,7 +30776,7 @@
           },
           "parameters": [
             "brickcoin",
-            "spawnm",
+            "spawn",
             "True",
             ""
           ]
@@ -27554,7 +30805,7 @@
           },
           "parameters": [
             "brickcoin",
-            "spawnm",
+            "spawn",
             "True",
             ""
           ]
@@ -27565,6 +30816,189 @@
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "brickstar",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "BooleanObjectVariable"
+          },
+          "parameters": [
+            "brickstar",
+            "spawn",
+            "True",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "player",
+            "brickstarcheker",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "star",
+            "brickstar.X()+4",
+            "brickstar.Y()-30",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetBooleanObjectVariable"
+          },
+          "parameters": [
+            "brickstar",
+            "spawn",
+            "False",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::SimulateJumpKey"
+          },
+          "parameters": [
+            "star",
+            "PlatformerObject"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::SimulateRightKey"
+          },
+          "parameters": [
+            "star",
+            "PlatformerObject"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "player",
+            "star",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "star",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "points",
+            "brickcoin.X()",
+            "brickcoin.Y()",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "points",
+            "Text",
+            "=",
+            "\"300\""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetNumberObjectVariable"
+          },
+          "parameters": [
+            "points",
+            "points",
+            "=",
+            "points.Y()-12"
+          ]
+        },
+        {
+          "type": {
+            "value": "AddForceAL"
+          },
+          "parameters": [
+            "points",
+            "270",
+            "32",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "SetNumberObjectVariable"
+          },
+          "parameters": [
+            "hud_points",
+            "totalpoints",
+            "+",
+            "300"
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "hud_points",
+            "Text",
+            "=",
+            "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+          ]
+        }
+      ]
     }
   ],
   "layers": [
@@ -27656,6 +31090,10 @@
       "type": "EffectCapability::EffectBehavior"
     },
     {
+      "name": "FPSDisplayer",
+      "type": "FPS::FPSDisplayer"
+    },
+    {
       "name": "Flash",
       "type": "Flash::Flash"
     },
@@ -27690,6 +31128,10 @@
     {
       "name": "Text",
       "type": "TextContainerCapability::TextContainerBehavior"
+    },
+    {
+      "name": "TimedBackAndForthMirroredMovement",
+      "type": "TimedBackAndForthMovement::TimedBackAndForthMirroredMovement"
     }
   ]
 }

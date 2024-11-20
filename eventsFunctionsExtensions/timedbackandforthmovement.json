@@ -8,7 +8,7 @@
   "name": "TimedBackAndForthMovement",
   "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/repeat.svg",
   "shortDescription": "This behavior moves objects back and forth for a chosen time or distance, vertically or horizontally.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": [
     "This behavior moves an object (like an enemy) for a chosen time or distance, then flips it and starts over, moving the object back and forth, vertically or horizontally.",
     "",
@@ -40,7 +40,7 @@
       "description": "Move an object (e.g. enemy) for a chosen time or distance, then flip it and start over. \nNote: animations should be facing LEFT.",
       "fullName": "Timed Back and Forth Movement",
       "name": "TimedBackAndForthMirroredMovement",
-      "objectType": "Sprite",
+      "objectType": "",
       "eventsFunctions": [
         {
           "fullName": "",
@@ -156,15 +156,16 @@
                           "parameters": [
                             "Object",
                             "<",
-                            "Object.Behavior::PropertyStartPosition() - Object.Behavior::PropertyDistance()"
+                            "StartPosition - Distance"
                           ]
                         },
                         {
                           "type": {
-                            "value": "FlippedY"
+                            "value": "FlippableCapability::FlippableBehavior::FlippedY"
                           },
                           "parameters": [
-                            "Object"
+                            "Object",
+                            "Flippable"
                           ]
                         }
                       ],
@@ -191,10 +192,11 @@
                         },
                         {
                           "type": {
-                            "value": "FlipY"
+                            "value": "FlippableCapability::FlippableBehavior::FlipY"
                           },
                           "parameters": [
                             "Object",
+                            "Flippable",
                             "no"
                           ]
                         }
@@ -210,16 +212,17 @@
                           "parameters": [
                             "Object",
                             ">",
-                            "Object.Behavior::PropertyStartPosition() + Object.Behavior::PropertyDistance()"
+                            "StartPosition + Distance"
                           ]
                         },
                         {
                           "type": {
                             "inverted": true,
-                            "value": "FlippedY"
+                            "value": "FlippableCapability::FlippableBehavior::FlippedY"
                           },
                           "parameters": [
-                            "Object"
+                            "Object",
+                            "Flippable"
                           ]
                         }
                       ],
@@ -246,10 +249,11 @@
                         },
                         {
                           "type": {
-                            "value": "FlipY"
+                            "value": "FlippableCapability::FlippableBehavior::FlipY"
                           },
                           "parameters": [
                             "Object",
+                            "Flippable",
                             "yes"
                           ]
                         }
@@ -317,15 +321,16 @@
                               "parameters": [
                                 "Object",
                                 "\"BacknForth_timeout\"",
-                                "Object.Behavior::PropertyTimeout()"
+                                "Timeout"
                               ]
                             },
                             {
                               "type": {
-                                "value": "FlippedY"
+                                "value": "FlippableCapability::FlippableBehavior::FlippedY"
                               },
                               "parameters": [
-                                "Object"
+                                "Object",
+                                "Flippable"
                               ]
                             }
                           ],
@@ -352,10 +357,11 @@
                             },
                             {
                               "type": {
-                                "value": "FlipY"
+                                "value": "FlippableCapability::FlippableBehavior::FlipY"
                               },
                               "parameters": [
                                 "Object",
+                                "Flippable",
                                 "no"
                               ]
                             }
@@ -371,16 +377,17 @@
                               "parameters": [
                                 "Object",
                                 "\"BacknForth_timeout\"",
-                                "Object.Behavior::PropertyTimeout()"
+                                "Timeout"
                               ]
                             },
                             {
                               "type": {
                                 "inverted": true,
-                                "value": "FlippedY"
+                                "value": "FlippableCapability::FlippableBehavior::FlippedY"
                               },
                               "parameters": [
-                                "Object"
+                                "Object",
+                                "Flippable"
                               ]
                             }
                           ],
@@ -407,10 +414,11 @@
                             },
                             {
                               "type": {
-                                "value": "FlipY"
+                                "value": "FlippableCapability::FlippableBehavior::FlipY"
                               },
                               "parameters": [
                                 "Object",
+                                "Flippable",
                                 "yes"
                               ]
                             }
@@ -436,10 +444,11 @@
                         {
                           "type": {
                             "inverted": true,
-                            "value": "FlippedY"
+                            "value": "FlippableCapability::FlippableBehavior::FlippedY"
                           },
                           "parameters": [
-                            "Object"
+                            "Object",
+                            "Flippable"
                           ]
                         }
                       ],
@@ -451,7 +460,7 @@
                           "parameters": [
                             "Object",
                             "0",
-                            "Object.Behavior::PropertySpeed()",
+                            "Speed",
                             ""
                           ]
                         }
@@ -462,10 +471,11 @@
                       "conditions": [
                         {
                           "type": {
-                            "value": "FlippedY"
+                            "value": "FlippableCapability::FlippableBehavior::FlippedY"
                           },
                           "parameters": [
-                            "Object"
+                            "Object",
+                            "Flippable"
                           ]
                         }
                       ],
@@ -477,7 +487,7 @@
                           "parameters": [
                             "Object",
                             "0",
-                            "- \nObject.Behavior::PropertySpeed()",
+                            "- \nSpeed",
                             ""
                           ]
                         }
@@ -588,7 +598,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "Flips",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -615,16 +624,17 @@
                           "parameters": [
                             "Object",
                             ">",
-                            "Object.Behavior::PropertyStartPosition() + Object.Behavior::PropertyDistance()"
+                            "StartPosition + Distance"
                           ]
                         },
                         {
                           "type": {
                             "inverted": true,
-                            "value": "FlippedX"
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
                           },
                           "parameters": [
-                            "Object"
+                            "Object",
+                            "Flippable"
                           ]
                         }
                       ],
@@ -651,10 +661,11 @@
                         },
                         {
                           "type": {
-                            "value": "FlipX"
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
                           },
                           "parameters": [
                             "Object",
+                            "Flippable",
                             "yes"
                           ]
                         }
@@ -670,15 +681,16 @@
                           "parameters": [
                             "Object",
                             "<",
-                            "Object.Behavior::PropertyStartPosition() - Object.Behavior::PropertyDistance()"
+                            "StartPosition - Distance"
                           ]
                         },
                         {
                           "type": {
-                            "value": "FlippedX"
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
                           },
                           "parameters": [
-                            "Object"
+                            "Object",
+                            "Flippable"
                           ]
                         }
                       ],
@@ -705,10 +717,11 @@
                         },
                         {
                           "type": {
-                            "value": "FlipX"
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
                           },
                           "parameters": [
                             "Object",
+                            "Flippable",
                             "no"
                           ]
                         }
@@ -722,7 +735,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "Timeout",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -777,25 +789,27 @@
                               "parameters": [
                                 "Object",
                                 "\"BacknForth_timeout\"",
-                                "Object.Behavior::PropertyTimeout()"
+                                "Timeout"
                               ]
                             },
                             {
                               "type": {
-                                "value": "FlippedX"
+                                "value": "FlippableCapability::FlippableBehavior::FlippedX"
                               },
                               "parameters": [
-                                "Object"
+                                "Object",
+                                "Flippable"
                               ]
                             }
                           ],
                           "actions": [
                             {
                               "type": {
-                                "value": "FlipX"
+                                "value": "FlippableCapability::FlippableBehavior::FlipX"
                               },
                               "parameters": [
                                 "Object",
+                                "Flippable",
                                 "no"
                               ]
                             },
@@ -831,26 +845,28 @@
                               "parameters": [
                                 "Object",
                                 "\"BacknForth_timeout\"",
-                                "Object.Behavior::PropertyTimeout()"
+                                "Timeout"
                               ]
                             },
                             {
                               "type": {
                                 "inverted": true,
-                                "value": "FlippedX"
+                                "value": "FlippableCapability::FlippableBehavior::FlippedX"
                               },
                               "parameters": [
-                                "Object"
+                                "Object",
+                                "Flippable"
                               ]
                             }
                           ],
                           "actions": [
                             {
                               "type": {
-                                "value": "FlipX"
+                                "value": "FlippableCapability::FlippableBehavior::FlipX"
                               },
                               "parameters": [
                                 "Object",
+                                "Flippable",
                                 "yes"
                               ]
                             },
@@ -886,7 +902,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "Movement",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -897,10 +912,11 @@
                         {
                           "type": {
                             "inverted": true,
-                            "value": "FlippedX"
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
                           },
                           "parameters": [
-                            "Object"
+                            "Object",
+                            "Flippable"
                           ]
                         }
                       ],
@@ -911,7 +927,7 @@
                           },
                           "parameters": [
                             "Object",
-                            "Object.Behavior::PropertySpeed()",
+                            "Speed",
                             "0",
                             ""
                           ]
@@ -923,10 +939,11 @@
                       "conditions": [
                         {
                           "type": {
-                            "value": "FlippedX"
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
                           },
                           "parameters": [
-                            "Object"
+                            "Object",
+                            "Flippable"
                           ]
                         }
                       ],
@@ -937,7 +954,7 @@
                           },
                           "parameters": [
                             "Object",
-                            "- \nObject.Behavior::PropertySpeed()",
+                            "- \nSpeed",
                             "0",
                             ""
                           ]
@@ -1012,7 +1029,6 @@
             {
               "description": "Object",
               "name": "Object",
-              "supplementaryInformation": "Sprite",
               "type": "object"
             },
             {
@@ -1026,6 +1042,17 @@
         }
       ],
       "propertyDescriptors": [
+        {
+          "value": "",
+          "type": "Behavior",
+          "label": "Flippable capability",
+          "description": "",
+          "group": "",
+          "extraInformation": [
+            "FlippableCapability::FlippableBehavior"
+          ],
+          "name": "Flippable"
+        },
         {
           "value": "false",
           "type": "Boolean",
