@@ -19,3 +19,4 @@
 - CPU: Intel(R) Celeron(R) N4020 (2) @ 2.80 GHz 
 - GPU: Intel UHD Graphics 600 @ 0.65 GHz [Integrated]
 - Memory 8GB
+- OS EndeavourOS and Arch
