@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 1.0803698661939225,
+    "zoomFactor": 0.8565467255622161,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1138,8 +1138,8 @@
       "name": "the_level",
       "persistentUuid": "71b8c88d-cfc0-47b4-934b-5004f3e1e918",
       "width": 3968,
-      "x": 0,
-      "y": 512,
+      "x": 31,
+      "y": 608,
       "zOrder": -9999999,
       "numberProperties": [],
       "stringProperties": [],
@@ -4172,7 +4172,7 @@
       "width": 32,
       "x": 2624,
       "y": 448,
-      "zOrder": 28,
+      "zOrder": -999,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -8761,7 +8761,7 @@
       "height": 0,
       "keepRatio": true,
       "layer": "HUD",
-      "name": "DebugText",
+      "name": "fpscounter",
       "persistentUuid": "864084d6-9b19-4060-b513-bdf4a3216fad",
       "width": 0,
       "x": 348,
@@ -8781,9 +8781,182 @@
       "name": "player",
       "persistentUuid": "edf95384-db74-4fa3-b236-b37aa05c89e9",
       "width": 32,
-      "x": 96,
+      "x": 32,
       "y": 416,
       "zOrder": 143,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bush",
+      "persistentUuid": "d5996ed2-c592-493e-8ef6-cc2cf30fa403",
+      "width": 0,
+      "x": 2624,
+      "y": 416,
+      "zOrder": 144,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bush",
+      "persistentUuid": "f3770186-1493-4a19-8505-81358d073a2d",
+      "width": 0,
+      "x": 2656,
+      "y": 416,
+      "zOrder": -999,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 112,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hill2",
+      "persistentUuid": "be26f4d5-2584-4543-8acf-7025bac766df",
+      "width": 96,
+      "x": 2808,
+      "y": 368,
+      "zOrder": -999,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 56,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hill",
+      "persistentUuid": "820e94b8-c2bc-4cbd-953c-7c9537b30908",
+      "width": 64,
+      "x": 3266,
+      "y": 401,
+      "zOrder": 145,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 66,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bush",
+      "persistentUuid": "0131e83b-e6d2-4008-9347-118b9a492cb2",
+      "width": 45,
+      "x": 3391,
+      "y": 392,
+      "zOrder": -1000,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "pipbottom",
+      "persistentUuid": "d302d244-765d-45b9-b10e-290e9280b70a",
+      "width": 32,
+      "x": 3680,
+      "y": 416,
+      "zOrder": 113,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 29,
+      "keepRatio": true,
+      "layer": "",
+      "name": "piptop",
+      "persistentUuid": "b96f28c0-3217-4df0-ab26-4932424d2ecd",
+      "width": 33,
+      "x": 3680,
+      "y": 387,
+      "zOrder": 114,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "pipbottom",
+      "persistentUuid": "7272ae07-de2a-4a8b-a2f9-452adf330cec",
+      "width": 32,
+      "x": 3680,
+      "y": 416,
+      "zOrder": 113,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 80,
+      "keepRatio": true,
+      "layer": "",
+      "name": "hill2",
+      "persistentUuid": "d4e294c9-39ae-4e62-b3ae-753dbe057ddc",
+      "width": 80,
+      "x": 4080,
+      "y": 391,
+      "zOrder": 146,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "keepRatio": true,
+      "layer": "",
+      "name": "objectdel",
+      "persistentUuid": "019bfbc0-9c5f-499d-9c0e-96c5f76ae4f8",
+      "width": 4800,
+      "x": -32,
+      "y": 512,
+      "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -23808,7 +23981,7 @@
       "assetStoreId": "",
       "bold": false,
       "italic": false,
-      "name": "DebugText",
+      "name": "fpscounter",
       "smoothed": true,
       "type": "TextObject::Text",
       "underlined": false,
@@ -23853,6 +24026,17 @@
         "characterSize": 20,
         "color": "255;255;255"
       }
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "objectdel",
+      "texture": "objectdel",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
@@ -24204,7 +24388,10 @@
         "objectName": "brickstarcheker"
       },
       {
-        "objectName": "DebugText"
+        "objectName": "fpscounter"
+      },
+      {
+        "objectName": "objectdel"
       }
     ]
   },
@@ -24244,6 +24431,134 @@
               },
               "parameters": [
                 "checker3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker4"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker6"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker7"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker8"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker9"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker10"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker11"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker4"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker4"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker4"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker4"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker4"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker4"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker4"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checker4"
               ]
             },
             {
@@ -24331,6 +24646,86 @@
                 "value": "Cache"
               },
               "parameters": [
+                "brickcheker10"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "brickcheker11"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "brickcheker12"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "brickcheker13"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "brickcheker14"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "brickcheker15"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "brickcheker16"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "brickcheker17"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "brickcheker18"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "brickcheker19"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
                 "unknownchecker"
               ]
             },
@@ -24347,7 +24742,15 @@
                 "value": "Cache"
               },
               "parameters": [
-                "unknownchecker3"
+                "unknownchecker4"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "unknownchecker5"
               ]
             },
             {
@@ -24364,6 +24767,14 @@
               },
               "parameters": [
                 "goopacheker2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "goopacheker3"
               ]
             }
           ]
@@ -24389,6 +24800,14 @@
                 "Goombatime",
                 "PlatformerObject",
                 "\"Jump\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "fpscounter"
               ]
             }
           ]
@@ -24471,6 +24890,55 @@
                 "no",
                 "no",
                 "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "F4"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "fpscounter",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "F5"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "fpscounter"
               ]
             }
           ]
@@ -29649,14 +30117,465 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "health",
+      "name": "objectdel",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "objectdel",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"test-scene\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": []
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "goopacheke3",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "Goombatime3",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Goombatime3",
+                "isfliped",
+                "=",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "points",
+                    "Goombatime3.X()",
+                    "Goombatime3.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "points",
+                    "Text",
+                    "=",
+                    "\"100\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "points",
+                    "points",
+                    "=",
+                    "points.Y()-12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "points",
+                    "270",
+                    "32",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "totalpoints",
+                    "+",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "hud_points",
+                    "Text",
+                    "=",
+                    "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Goombatime3",
+                    "isfliped",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Goombatime3",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goombatime3",
+                    "Animation",
+                    "=",
+                    "\"dead\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateControl"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject",
+                        "\"Jump\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Goombatime3",
+                    "Animation",
+                    "=",
+                    "\"dead\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Goombatime3",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::Value"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Flash::Flash::IsFlashing"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flash",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "player",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::Value"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "player",
+                    "Scale",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Flash::Flash::Flash"
+                  },
+                  "parameters": [
+                    "player",
+                    "Flash",
+                    "4",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "goopacheker3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateControl"
+              },
+              "parameters": [
+                "Goombatime3",
+                "PlatformerObject",
+                "\"Left\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "Goombatime",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Goombatime3",
+                "Animation",
+                "=",
+                "\"move\""
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
@@ -30541,17 +31460,6 @@
             "",
             ""
           ]
-        },
-        {
-          "type": {
-            "value": "ScalableCapability::ScalableBehavior::Value"
-          },
-          "parameters": [
-            "player",
-            "Scale",
-            "=",
-            "2"
-          ]
         }
       ],
       "actions": [
@@ -30996,6 +31904,35 @@
             "Text",
             "=",
             "SubStr(\"000000\", 0, 6- ToNumber(ToString(StrLength(hud_points.totalpoints)))) + hud_points.totalpoints"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "player",
+            "castle",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"thanks screen\"",
+            ""
           ]
         }
       ]

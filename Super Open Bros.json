@@ -1,9 +1,9 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 218,
+    "build": 221,
     "major": 5,
-    "minor": 4,
+    "minor": 5,
     "revision": 0
   },
   "properties": {
@@ -26,7 +26,7 @@
     "windowWidth": 781,
     "windowHeight": 510,
     "latestCompilationDirectory": "",
-    "maxFPS": 60,
+    "maxFPS": 120,
     "minFPS": 30,
     "verticalSync": false,
     "platformSpecificAssets": {
@@ -37,7 +37,7 @@
       "android-icon-72": "",
       "android-icon-96": "",
       "android-windowSplashScreenAnimatedIcon": "",
-      "desktop-icon-512": "",
+      "desktop-icon-512": "SMB.jpg",
       "ios-icon-100": "",
       "ios-icon-1024": "",
       "ios-icon-114": "",
@@ -95,7 +95,6 @@
   "resources": {
     "resources": [
       {
-        "alwaysLoaded": false,
         "file": "Mario_Big_Idle.png",
         "kind": "image",
         "metadata": "",
@@ -104,7 +103,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Big_Jump.png",
         "kind": "image",
         "metadata": "",
@@ -113,7 +111,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Big_Run1.png",
         "kind": "image",
         "metadata": "",
@@ -122,7 +119,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Big_Run2.png",
         "kind": "image",
         "metadata": "",
@@ -131,7 +127,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Big_Run3.png",
         "kind": "image",
         "metadata": "",
@@ -140,7 +135,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Big_Slide.png",
         "kind": "image",
         "metadata": "",
@@ -149,7 +143,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Small_Death.png",
         "kind": "image",
         "metadata": "",
@@ -158,7 +151,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Brick.png",
         "kind": "image",
         "metadata": "",
@@ -167,7 +159,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Bush1.png",
         "kind": "image",
         "metadata": "",
@@ -176,7 +167,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Bush2.png",
         "kind": "image",
         "metadata": "",
@@ -185,7 +175,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Bush3.png",
         "kind": "image",
         "metadata": "",
@@ -194,7 +183,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Castle.png",
         "kind": "image",
         "metadata": "",
@@ -203,7 +191,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Cloud1.png",
         "kind": "image",
         "metadata": "",
@@ -212,7 +199,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Cloud2.png",
         "kind": "image",
         "metadata": "",
@@ -221,7 +207,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Cloud3.png",
         "kind": "image",
         "metadata": "",
@@ -230,7 +215,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Coin.png",
         "kind": "image",
         "metadata": "",
@@ -239,7 +223,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Coin_Underground.png",
         "kind": "image",
         "metadata": "",
@@ -248,7 +231,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "EmptyBlock.png",
         "kind": "image",
         "metadata": "",
@@ -257,7 +239,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Flag.png",
         "kind": "image",
         "metadata": "",
@@ -266,7 +247,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "FlagPole.png",
         "kind": "image",
         "metadata": "",
@@ -275,7 +255,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "GroundBlock.png",
         "kind": "image",
         "metadata": "",
@@ -284,7 +263,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "HardBlock.png",
         "kind": "image",
         "metadata": "",
@@ -293,7 +271,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Hill1.png",
         "kind": "image",
         "metadata": "",
@@ -302,7 +279,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Hill2.png",
         "kind": "image",
         "metadata": "",
@@ -311,7 +287,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "MysteryBlock.png",
         "kind": "image",
         "metadata": "",
@@ -320,7 +295,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Small_Death2.png",
         "kind": "image",
         "metadata": "",
@@ -329,7 +303,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Small_Idle.png",
         "kind": "image",
         "metadata": "",
@@ -338,7 +311,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Small_Jump.png",
         "kind": "image",
         "metadata": "",
@@ -347,7 +319,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Small_Run1.png",
         "kind": "image",
         "metadata": "",
@@ -356,7 +327,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Small_Run2.png",
         "kind": "image",
         "metadata": "",
@@ -365,7 +335,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Small_Run3.png",
         "kind": "image",
         "metadata": "",
@@ -374,7 +343,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Small_Slide.png",
         "kind": "image",
         "metadata": "",
@@ -383,7 +351,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "PipeBottom.png",
         "kind": "image",
         "metadata": "",
@@ -392,7 +359,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "PipeConnection.png",
         "kind": "image",
         "metadata": "",
@@ -401,7 +367,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "PipeTop.png",
         "kind": "image",
         "metadata": "",
@@ -410,7 +375,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Starman.png",
         "kind": "image",
         "metadata": "",
@@ -419,7 +383,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "UndergroundBlock.png",
         "kind": "image",
         "metadata": "",
@@ -428,7 +391,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "UndergroundBrick.png",
         "kind": "image",
         "metadata": "",
@@ -437,7 +399,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Goomba_Flat.png",
         "kind": "image",
         "metadata": "",
@@ -446,7 +407,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Goomba_Walk1.png",
         "kind": "image",
         "metadata": "",
@@ -455,7 +415,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Goomba_Walk2.png",
         "kind": "image",
         "metadata": "",
@@ -464,7 +423,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Koopa_Walk1.png",
         "kind": "image",
         "metadata": "",
@@ -473,7 +431,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Koopa_Walk2.png",
         "kind": "image",
         "metadata": "",
@@ -482,7 +439,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Koopa_Shell.png",
         "kind": "image",
         "metadata": "",
@@ -491,7 +447,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart.png",
         "kind": "image",
         "metadata": "",
@@ -504,7 +459,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "HUD Menus.png",
         "kind": "image",
         "metadata": "",
@@ -513,7 +467,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Goomba_Walk3.png",
         "kind": "image",
         "metadata": "",
@@ -522,7 +475,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Starman2.png",
         "kind": "image",
         "metadata": "",
@@ -545,7 +497,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "1upMushroom.png",
         "kind": "image",
         "metadata": "",
@@ -554,7 +505,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "MagicMushroom.png",
         "kind": "image",
         "metadata": "",
@@ -563,7 +513,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Coin_Underground2.png",
         "kind": "image",
         "metadata": "",
@@ -572,7 +521,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Coin_Underground3.png",
         "kind": "image",
         "metadata": "",
@@ -581,7 +529,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Koopa_Walk3.png",
         "kind": "image",
         "metadata": "",
@@ -590,7 +537,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Koopa_Shell2.png",
         "kind": "image",
         "metadata": "",
@@ -599,7 +545,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Mario_Small_Idle2.png",
         "kind": "image",
         "metadata": "",
@@ -608,7 +553,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "EmptyBlock2.png",
         "kind": "image",
         "metadata": "",
@@ -617,7 +561,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "SuperMarioBrosMap1-1.png",
         "kind": "image",
         "metadata": "",
@@ -626,7 +569,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Bush4.png",
         "kind": "image",
         "metadata": "",
@@ -635,7 +577,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "Bush5.png",
         "kind": "image",
         "metadata": "",
@@ -644,7 +585,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -653,7 +593,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/NewSprite.png\",\"extension\":\".png\"}",
@@ -662,7 +601,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -671,7 +609,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite3.png\"}",
@@ -680,13 +617,36 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite4",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objectdel.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "objectdel",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "SMB.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "SMB.jpg",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -707,6 +667,14 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/test-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/main-menu"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/thanks-screen"
     }
   ],
   "externalEvents": [],
